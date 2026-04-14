@@ -14,6 +14,8 @@ First of all, some of the sequences needs renaming and extraction from the sourc
 
 #### What is in here
 
+Imput organization
+'''
 lumpers-vs-splitters
 |
 ├── BDD
@@ -25,8 +27,7 @@ lumpers-vs-splitters
 ├── scripts
 │   └── Script*.sh
 ├── Results
-
-
+'''
 
 ### Preparing the data
 1. Script01 - Creates a list of IDs from a metadata table and extracts its fasta sequences from a database
@@ -38,10 +39,13 @@ lumpers-vs-splitters
 1. Script05 - Call Mafft for alignment
 2. Script06 - Call IQtree to create a ML tree based on the last alignment
 
-
 ### Additional info
 This proyect was executed in a potatoe connected with a aaa battery
 - Personal Laptop
-- Linux mint
-- CPU:
-- RAM:
+- Linux Mint 21.1
+- CPU: Intel Core i3-1005G1
+    2 nucleous 4 threads
+- RAM: 4GB
+
+
+
