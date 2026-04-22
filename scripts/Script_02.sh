@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 02
 # Concatenar los fastas obtenidos de distintas bases de datos en un solo .fasta
-# ./scrips/prueba02.sh /home/daniela/GSM/Stephanosporaceae/BDD/NCBI/
+# ./scrips/prueba02.sh ../NCBI/
 
 DIR="$1"
 
