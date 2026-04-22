@@ -50,7 +50,7 @@ fi
 #la base de datos ya existe 
 
 INPUT="$1"
-UNITE="/home/daniela/GSM/Stephanosporaceae/BDD/Unite/qiime_s/sh_refs_qiime_ver10_99_s_19.02.2025.fasta"
+UNITE="../Unite/qiime_s/sh_refs_qiime_ver10_99_s_19.02.2025.fasta"
 OUTPUT="out/"
 BASENAME=$(basename "$INPUT" .txt)
 
