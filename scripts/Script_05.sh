@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 05
 # Align the fastas
-# ./scrips/prueba05.sh /home/daniela/GSM/Stephanosporaceae/BDD/concatenados
+# ./Script_05.sh ../concatenados
 #####################################################
 #Telegram bot
 /bin/bash telegram_bot.sh
