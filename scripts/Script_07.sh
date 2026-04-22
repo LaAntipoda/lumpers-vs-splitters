@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script 0
+# Script 07
 # mPTP inference
 
 # Options to remember
@@ -10,7 +10,7 @@
 # Computing support values by taking the specified number of MCMC samples (delimitations) using the mPTP model.
 
 #This script asks for a tree.newick a fasta alignment and an outrgroup list 
-# ./prueba07.sh /home/daniela/GSM/Stephanosporaceae/BDD/alineamientos/IQ3_out/
+# ./Script_07.sh ../alineamientos/IQ3_out/
 
 #####################################################
 #Telegram bot
