@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 06
 # IQ3 tree
-# ./scrips/prueba06.sh /home/daniela/GSM/Stephanosporaceae/BDD/alineamientos
+# ./Script_06.sh ../alineamientos
 #####################################################
 #Telegram bot
 /bin/bash telegram_bot.sh
