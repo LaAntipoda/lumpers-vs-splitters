@@ -30,14 +30,15 @@ lumpers-vs-splitters
 
 ### Script description
 #### Preparing the data
-1. Script01 - Creates a list of IDs from a metadata table and extracts its fasta sequences from a database
-2. Script02 - Concatenates different .fasta documents from a folder into a single .fasta
-3. Script03 - Identify duplicated sequences in a .fasta and removes them
-4. Script04 - Check if MAFFT and IQtree are installed an wich version
+1. Script_01 - Creates a list of IDs from a metadata table and extracts its fasta sequences from a database
+2. Script_02 - Concatenates different .fasta documents from a folder into a single .fasta
+3. Script_03 - Identify duplicated sequences in a .fasta and removes them
+4. Script_04 - Check if MAFFT and IQtree are installed an wich version
 
-#### Prepare the alignment
-1. Script05 - Call Mafft for alignment
-2. Script06 - Call IQtree to create a ML tree based on the last alignment
+#### Proccess the data
+1. Script_05 - Call Mafft for alignment
+2. Script_06 - Call IQtree to create a ML tree based on the last alignment
+3. Script_07 - Call mPTP for the species inference
 
 ### Expected output
 ```
@@ -58,7 +59,7 @@ Results
 ```
 
 ### Additional info
-This proyect was executed in a potatoe connected with a aaa battery
+This proyect was executed in a potatoe connected with an aaa battery
 - Personal Laptop
 - Linux Mint 21.1
 - CPU: Intel Core i3-1005G1
