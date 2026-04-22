@@ -1,7 +1,6 @@
 #!/bin/bash
 # Script 04
 # Check if MAFFT and IQ3 is installed
-#!/bin/bash
 
 # List of programs to check and install
 PROGRAMS=("mafft" "iqtree2")
@@ -91,18 +90,7 @@ install_program() {
     return 1
 }
 
-# Main script
-echo ""
-echo "=========================================="
-echo "Bioinformatics Tools Installation Script"
-echo "=========================================="
-echo ""
-
 # Check and install each program
 for program in "${PROGRAMS[@]}"; do
     install_program "$program"
 done
-
-echo "=========================================="
-echo "Installation process completed."
-echo "=========================================="
