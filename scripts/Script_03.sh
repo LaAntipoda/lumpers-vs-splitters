@@ -1,11 +1,11 @@
 #!/bin/bash
 # Script 03
-# Remove duplicate sequences from a FASTA file.
+# Remover secuencias duplicadas de un archivo .fasta
 # Duplicates are identified by their nucleotide sequence (header is ignored).
 # Unique sequences -> output file (default: unique.fasta)
 # Duplicate sequences -> duplicadas.fasta
 #
-# ./prueba03.sh -i /home/daniela/GSM/Stephanosporaceae/BDD/concatenados/Radulomycetaceae_concatenados.fasta
+# ./Script_03.sh -i ../concatenados/*_concatenados.fasta
 
 INPUT=""
 OUTPUT="unique.fasta"
@@ -20,7 +20,7 @@ while getopts "i:o:" opt; do
 done
 
 if [ -z "$INPUT" ]; then
-    echo "ERROR: No input file provided."
+    echo "No se ha idicado el archivo"
     echo "Usage: $0 -i input.fasta [-o unique.fasta]"
     exit 1
 fi
