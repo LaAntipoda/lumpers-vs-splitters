@@ -1,0 +1,1029 @@
+1.	UDB07672195|TUF126977	Pterula subulata	Estonia	Fungus: Fruitbody
+2.	UDB07676849|TUF142091	Pterula subulata	Estonia	
+3.	UDB03690606|7c668557d0cb361ffaee4ef39d960acf01903367	Parapterulicium	Brazil	Fungus: Soil DNA
+4.	UDB03690608|32f0eee21f8ae73ec3e3d8658c21c22db48f330b	Parapterulicium	Brazil	Fungus: Soil DNA
+5.	UDB03690610|f03da48bc53d89d3b1ee85723ea4a6aba7e87d81	Parapterulicium	Brazil	Fungus: Soil DNA
+6.	UDB03690613|19489e3fcefe0c16e93b7bf743c5233784fa17b0	Parapterulicium	Brazil	Fungus: Soil DNA
+7.	UDB03690614|37bf498deb8cd5c8717e3449a5496239887853c5	Parapterulicium	Brazil	Fungus: Soil DNA
+8.	UDB03690617|3e330d70e600c96101652b13f19cf2680e73f7f2	Parapterulicium	Brazil	Fungus: Soil DNA
+9.	UDB03690618|0a21090be155e117bb51297bf08943555eebd6d7	Parapterulicium	Brazil	Fungus: Soil DNA
+10.	UDB03690620|1a56f5cd5ee09b20332c4be1b8594f68382d346b	Parapterulicium	Brazil	Fungus: Soil DNA
+11.	UDB03690622|1a98925ed95cba0731e486094ec12eb17a52b940	Parapterulicium	Brazil	Fungus: Soil DNA
+12.	UDB03690624|30555960a91ce571055ceae08073e04aca53ccc9	Parapterulicium	Brazil	Fungus: Soil DNA
+13.	UDB03690627|3261a7ba3f1d9384e1522557cff859565eb6bbd5	Parapterulicium	Brazil	Fungus: Soil DNA
+14.	UDB03690629|32f547d799405f8bed449fa030e2bb14315b65b4	Parapterulicium	Brazil	Fungus: Soil DNA
+15.	UDB03690630|3c0d25bae0a4f930eb38417b67824398b95f0638	Parapterulicium	Brazil	Fungus: Soil DNA
+16.	UDB03690632|47f49509e6672302efb038d893cee52149592488	Parapterulicium	Brazil	Fungus: Soil DNA
+17.	UDB03690634|5324e45b278aed3951063b285a0dccb95255ca2a	Parapterulicium	Brazil	Fungus: Soil DNA
+18.	UDB03690635|58eb727b0fe2840daa61e2d82ee2c62e8da36a35	Parapterulicium	Brazil	Fungus: Soil DNA
+19.	UDB03690636|64a10fdd38dd48c231e03af774b44fb918131451	Parapterulicium	Brazil	Fungus: Soil DNA
+20.	UDB03690637|7545d6aa13646539c069e4417bfb8c28448e109d	Parapterulicium	Brazil	Fungus: Soil DNA
+21.	UDB03690638|878e302755fd6541e740687d72b8367e961b6c3f	Parapterulicium	Brazil	Fungus: Soil DNA
+22.	UDB03690639|91c991be742980883be8708936963a53e6617791	Parapterulicium	Brazil	Fungus: Soil DNA
+23.	UDB03690641|92d62632bf65bea2bbc97f28ddf923039af88b79	Parapterulicium	Brazil	Fungus: Soil DNA
+24.	UDB03690643|92fe417e737411f46ff7efa72d4cc8d9458cb6fe	Parapterulicium	Brazil	Fungus: Soil DNA
+25.	UDB03690644|941a77b2360d511e71f44e2ef6e40c170b60dd5d	Parapterulicium	Brazil	Fungus: Soil DNA
+26.	UDB03690670|9eb2d17f12f5501eb7ce947b08ea1f2c83d2ad3d	Parapterulicium	Brazil	Fungus: Soil DNA
+27.	UDB03690672|b8807d9948775cacd12656e496d6c7b37929d4df	Parapterulicium	Brazil	Fungus: Soil DNA
+28.	UDB03690675|bc899e3a2cea1092a71365aca4a245ebabc6a8ff	Parapterulicium	Brazil	Fungus: Soil DNA
+29.	UDB03690678|d17852a151314d9a3ef9b43aea523d06630f9814	Parapterulicium	Brazil	Fungus: Soil DNA
+30.	UDB03690682|d26befd629b5f5faf0e2ad5669928095a85b0a04	Parapterulicium	Brazil	Fungus: Soil DNA
+31.	UDB03690684|d3982d6344213936c27fd0061db5909afbb0184c	Parapterulicium	Brazil	Fungus: Soil DNA
+32.	UDB03690687|dc1bdb63ec6ca31a7b5e9e086656955a9f4bc13b	Parapterulicium	Brazil	Fungus: Soil DNA
+33.	UDB03690690|dc205e442e18a0dc69690c1a979da076ed111008	Parapterulicium	Brazil	Fungus: Soil DNA
+34.	UDB03690693|e657b16265da9b15663ecd128afe215fdd7474f8	Parapterulicium	Brazil	Fungus: Soil DNA
+35.	UDB03690695|e8741e47eca6cf2bb49961f46b024b25c6bd1998	Parapterulicium	Brazil	Fungus: Soil DNA
+36.	UDB03690699|eb3f7e9a64180b78b09d6e43daafb3dd38bdb6b0	Parapterulicium	Brazil	Fungus: Soil DNA
+37.	UDB03690701|fde8b02d6d5a155dd61c4c79c62cb300c011f5cd	Parapterulicium	Brazil	Fungus: Soil DNA
+38.	UDB05710755|65beec42381264ef575a0b670423bc4872c14e2b	Pterula	Brazil	Fungus: Soil DNA
+39.	UDB05710758|517bc9e89fa4bf6b651d825da8840d5076433d52	Pterula	Brazil	Fungus: Soil DNA
+40.	UDB05710762|a1ac1bf87c454c7192581942c3e57aae97276ee6	Pterula	Brazil	Fungus: Soil DNA
+41.	UDB05710765|c0256320366be250b46209dd7a83b78af4a5d345	Pterula	Brazil	Fungus: Soil DNA
+42.	UDB05710768|c31599bbed85f1e5d62e0dfbf20efff0aa5048c7	Pterula	Brazil	Fungus: Soil DNA
+43.	UDB05710771|1e1966aeb84725ac7ce28fd1deb68bc95675c5e3	Pterula	Brazil	Fungus: Soil DNA
+44.	UDB05710774|3acf6c5bb9c3440b2c3ae588123e9b0ed3e73fa4	Pterula	Brazil	Fungus: Soil DNA
+45.	UDB05710777|67eab56082cb677a7e249cb584ac0c49c6e07a47	Pterula	Brazil	Fungus: Soil DNA
+46.	UDB05710780|6eefc402dcb15c244089b4d48654bd502d699ae9	Pterula	Brazil	Fungus: Soil DNA
+47.	UDB05710783|eda83c1367fb9d25aaf107328111f75d6403e0b2	Pterula	Brazil	Fungus: Soil DNA
+48.	UDB05710786|0fee628bd5d4e2f42f88bdfd9fd49a43057db9da	Pterula	Brazil	Fungus: Soil DNA
+49.	UDB05710789|1bc39b26d850d95ac0ecd5a2aa76f218b0135fd1	Pterula	Brazil	Fungus: Soil DNA
+50.	UDB05710792|267555250cbe1641ab4c3485ecbb56371d642130	Pterula	Brazil	Fungus: Soil DNA
+51.	UDB05710795|30b25e7d6dedcfa49de00b87ea72773a5755a003	Pterula	Brazil	Fungus: Soil DNA
+52.	UDB05710798|31bd2b332d2aae51dae78a24115fa04b76bcd327	Pterula	Brazil	Fungus: Soil DNA
+53.	UDB05710801|46413934c684b9830bdec6e7cbf823d9ac130fe3	Pterula	Brazil	Fungus: Soil DNA
+54.	UDB05710804|614d1ca83a28970c43b2a97a248654a29b918768	Pterula	Brazil	Fungus: Soil DNA
+55.	UDB05710807|7e181fef8a06b9799c43a7e23623406a81f46e6a	Pterula	Brazil	Fungus: Soil DNA
+56.	UDB05710810|868d0036b3ab84f56a30ce833401c85d61a20d2a	Pterula	Brazil	Fungus: Soil DNA
+57.	UDB05710813|875610219e2c19dfe8f69c935816744355392794	Pterula	Brazil	Fungus: Soil DNA
+58.	UDB05710816|a47a0064f561ea5d2348f5a78c41f8bd896e65ae	Pterula	Brazil	Fungus: Soil DNA
+59.	UDB05710819|a5f388084a670865fed74c02d73bdbdba6bb1de1	Pterula	Brazil	Fungus: Soil DNA
+60.	UDB05710822|a889603501d493de5e51709075a8632fcefce6f3	Pterula	Brazil	Fungus: Soil DNA
+61.	UDB05710825|aaf17df108ce3e4c8d7b851468e26eeb95a5dbe7	Pterula	Brazil	Fungus: Soil DNA
+62.	UDB05710828|b2d882deab3f51b9633e33f64e3b210a50a51857	Pterula	Brazil	Fungus: Soil DNA
+63.	UDB05710831|b42698317bb86a4937f1cfbe814179e449e6ea84	Pterula	Brazil	Fungus: Soil DNA
+64.	UDB05710834|b590f316bca15b6c6f03258e3097fbeba3108125	Pterula	Brazil	Fungus: Soil DNA
+65.	UDB05710837|bdb6296a95f344d94bdc0b50cf372dd65ed7ae21	Pterula	Brazil	Fungus: Soil DNA
+66.	UDB05710840|bfc1e698c81bfa6abd68b0289279f5d087b9f2b1	Pterula	Brazil	Fungus: Soil DNA
+67.	UDB05710842|c658e86674d3cc99fcc43b3345340c44bca21fc2	Pterula	Brazil	Fungus: Soil DNA
+68.	UDB05710845|cc61412b626306617f4e786c57e1f2a90fca76e6	Pterula	Brazil	Fungus: Soil DNA
+69.	UDB05710848|d51f4d065165cf89f7ab409e0040d912937f7b94	Pterula	Brazil	Fungus: Soil DNA
+70.	UDB05710851|db9785114f076e6e0eff757e1fab877c9f43045f	Pterula	Brazil	Fungus: Soil DNA
+71.	UDB05710855|f372fef0f241b72305918b44380526981f1e5780	Pterula	Brazil	Fungus: Soil DNA
+72.	UDB05710858|f7f7240f70195bd1dcdc7eef9f54f7276675c23a	Pterula	Brazil	Fungus: Soil DNA
+73.	UDB05710861|fb0e306951048b61c1e10aac203c2585a9cd510b	Pterula	Brazil	Fungus: Soil DNA
+74.	UDB05710864|579a2a8a53a872bb5e5932f2c6ae0dfda45637d2	Pterula	Brazil	Fungus: Soil DNA
+75.	UDB05710866|aa92fa5223eefdc6e1d0b9d2a90f91708f43899f	Pterula	Brazil	Fungus: Soil DNA
+76.	UDB05710869|bacd48aecdc01df2f753c895f3ad961c891055c6	Pterula	Brazil	Fungus: Soil DNA
+77.	UDB05710871|16b3835f3a9e1978df720e0316d38769aa7378a9	Pterula	Brazil	Fungus: Soil DNA
+78.	UDB05710873|246d038d56f2ab0b2ce4f0c28552eb6a3beaedd9	Pterula	Brazil	Fungus: Soil DNA
+79.	UDB05710875|a6e3b4c65c377f0e2ee14a4ccef5079734db76ce	Pterula	Brazil	Fungus: Soil DNA
+80.	UDB05710877|bfed589b0e4bd2aec4a6bb6f74005493e6019251	Pterula	Brazil	Fungus: Soil DNA
+81.	UDB05710878|cbec3357fbfc2800b08b31dcb1e18ddf86e0a0b2	Pterula	Brazil	Fungus: Soil DNA
+82.	UDB05710881|259aa55a299ec2c571f326c8d48f0773a1055652	Pterula	Brazil	Fungus: Soil DNA
+83.	UDB05710885|421b4907253a9bd13e703770549effaa39406e80	Pterula	Brazil	Fungus: Soil DNA
+84.	UDB05710888|5de150ae89b861114085124a0da0ece309afa29e	Pterula	Brazil	Fungus: Soil DNA
+85.	UDB05710891|69a51d6ebfec812506bc60411d73b1b3db103c7d	Pterula	Brazil	Fungus: Soil DNA
+86.	UDB05710894|83f95cfc24d8181cace13dee9f9f6c5ce74d2f21	Pterula	Brazil	Fungus: Soil DNA
+87.	UDB05710897|93dea3c02051b5fb583cf398a57a6095fe853ec9	Pterula	Brazil	Fungus: Soil DNA
+88.	UDB05710899|97e1237168367bbef9c645e2f0ab20778a72341c	Pterula	Brazil	Fungus: Soil DNA
+89.	UDB05710901|a1dc8e3276802718d4535ab5fc20e5967d3f0490	Pterula	Brazil	Fungus: Soil DNA
+90.	UDB05710903|d96015684de19954cf8538926b3e80204afbdff8	Pterula	Brazil	Fungus: Soil DNA
+91.	UDB05710905|e3b13d2fa03f975b77fd8676670c980daf7841d0	Pterula	Brazil	Fungus: Soil DNA
+92.	UDB05710907|391be60dd544bfaa1285c3a4f7bcc37e5b5d5c60	Pterula	Brazil	Fungus: Soil DNA
+93.	UDB05710909|c65eaa2cbc04316b560bc0bca609e34944749ddc	Pterula	Brazil	Fungus: Soil DNA
+94.	UDB05710911|cca6f4876b8eed2fdac98dbe25e26b7c1d81105a	Pterula	Brazil	Fungus: Soil DNA
+95.	UDB05710913|2c43e0bae95fb2680778300803b431f443cf9a45	Pterula	Brazil	Fungus: Soil DNA
+96.	UDB05710915|31a7c68d73c4f4e5f6c1998150a14ae82528ee91	Pterula	Brazil	Fungus: Soil DNA
+97.	UDB05710917|702eee0251bc1e0eab4f503d557c6ce1d89be1dd	Pterula	Brazil	Fungus: Soil DNA
+98.	UDB05710919|a8885cd1e4e26e8bf32fe829690d61d44de1191e	Pterula	Brazil	Fungus: Soil DNA
+99.	UDB05710921|ab2406e64e91b7ad6df2d64471fa41423479c5c8	Pterula	Brazil	Fungus: Soil DNA
+100.	UDB05710923|0ee9a496dde4f341f8aac610a049bcde24296a3c	Pterula	Mexico	Fungus: Soil DNA
+101.	UDB05710925|1ec31cb3865571dd8c1eb57e2589b13d0dbd4891	Pterula	Mexico	Fungus: Soil DNA
+102.	UDB05710927|2fead67fed18fba5362ed542458fdf87ddf0611d	Pterula	Mexico	Fungus: Soil DNA
+103.	UDB05710929|a2446b4ee330bf3d7d44b2c958add6c92afd6c91	Pterula	Mexico	Fungus: Soil DNA
+104.	UDB05710931|fe4e53bc9f4195cf1af02e3f0e494ccf1b3d0997	Pterula	Mexico	Fungus: Soil DNA
+105.	UDB05710933|3890ed696af7ea3fb428c2adf22ef800639abba7	Pterula	Mexico	Fungus: Soil DNA
+106.	UDB05710937|68a6ba8276c9526dbb5a74cde46db30a0755db70	Pterula	Mexico	Fungus: Soil DNA
+107.	UDB05710940|3cb49738d6c90792ff70ef8a92b4a9d5c9b7641d	Pterula	Mexico	Fungus: Soil DNA
+108.	UDB05710943|039fcb69fdf4e80f0c055ea4f75064826dd0a30f	Pterula	Mexico	Fungus: Soil DNA
+109.	UDB05710946|7ee0d7563d84d1431fcd08386ae1e979ad902397	Pterula	Mexico	Fungus: Soil DNA
+110.	UDB05710949|26a47b12107d288630f3be5c4dfcba286c558ea1	Pterula	Mexico	Fungus: Soil DNA
+111.	UDB05710952|34976e79dee00072fdc63af21141dd87cc903dae	Pterula	Mexico	Fungus: Soil DNA
+112.	UDB05710954|47e5718618785079e764800e6c70740cf8583ad4	Pterula	Mexico	Fungus: Soil DNA
+113.	UDB05710957|74eb48047c75a6caf4b7ebcd84b0116722aa581e	Pterula	Mexico	Fungus: Soil DNA
+114.	UDB05710959|89a562b00044f9fbb0be0b94f85a7becdd5e8df3	Pterula	Mexico	Fungus: Soil DNA
+115.	UDB05710962|8c50007c12554a51d9ff08b98e4751f5ce8523e3	Pterula	Mexico	Fungus: Soil DNA
+116.	UDB05710964|9554b2d2864d42863e037f7ab7654fafeb4398b8	Pterula	Mexico	Fungus: Soil DNA
+117.	UDB05710966|0ea9c86638b0588d1c58547af4b5d2a61a3000c7	Pterula	Mexico	Fungus: Soil DNA
+118.	UDB05710968|38bdcc3422b6f4c8c5ec031505f60557f309733f	Pterula	Mexico	Fungus: Soil DNA
+119.	UDB05710970|44ac39f350035fb89d9528fb8dedfe1b25642a8f	Pterula	Mexico	Fungus: Soil DNA
+120.	UDB05710972|45072ae88a5d37d8bc8da8bdc0befcad7aea99f6	Pterula	Mexico	Fungus: Soil DNA
+121.	UDB05710974|7ddd8f0c2d267f7563b2b1fe27a3352ce21622e8	Pterula	Mexico	Fungus: Soil DNA
+122.	UDB05710976|84b03c2c7cf61f9360ab3436cbdb9abdf96234ed	Pterula	Mexico	Fungus: Soil DNA
+123.	UDB05710978|8a6c86fdc6e4056ae1fe6090e83559d7deb2d84e	Pterula	Mexico	Fungus: Soil DNA
+124.	UDB05710981|b96db73e2f9bedbd12c46c9d2686e2450ae58474	Pterula	Mexico	Fungus: Soil DNA
+125.	UDB05710984|ce692c41673985583ecc3ca59f4e6d3c7cb8d814	Pterula	Mexico	Fungus: Soil DNA
+126.	UDB05710987|dd0143812fe6209320cfe8fbe80e44078f107cbb	Pterula	Mexico	Fungus: Soil DNA
+127.	UDB05710989|ed795c342b0fdd4f214c696b884333f252ae1c55	Pterula	Mexico	Fungus: Soil DNA
+128.	UDB05710991|2b90d989f7a71340ad6fbb0e080a44a45862533c	Pterula	Guatemala	Fungus: Soil DNA
+129.	UDB05710993|53bf092d22431e1fa5d8f12a4c5786a8a8997063	Pterula	Guatemala	Fungus: Soil DNA
+130.	UDB05710996|084a1529f672813014711ae0ef5726ae407594bc	Pterula	Guatemala	Fungus: Soil DNA
+131.	UDB05710999|30516e9867d2a77abc2c95799ceca9d0788f9ecd	Pterula	Guatemala	Fungus: Soil DNA
+132.	UDB05711002|3b962b637911720e19e7acdd8e62b1449eeafdf1	Pterula	Guatemala	Fungus: Soil DNA
+133.	UDB05711005|54d288ee0b3152b0d1fb7ed970cf8466e660109d	Pterula	Guatemala	Fungus: Soil DNA
+134.	UDB05711008|5dfd96efc213e327e76199dc46bf2f8932c5b1d5	Pterula	Guatemala	Fungus: Soil DNA
+135.	UDB05711011|82fb7c75a5289c3b184349bd36bedbd172b29325	Pterula	Guatemala	Fungus: Soil DNA
+136.	UDB05711014|939ee2962782bafad50d672969d98e61c101efd5	Pterula	Guatemala	Fungus: Soil DNA
+137.	UDB05711017|9d386ee29ff5d6dc043290837ed26fe3ae6c25b9	Pterula	Guatemala	Fungus: Soil DNA
+138.	UDB05711263|a1b27aabce6c0f324b06dec07512c196a5ad19ba	Pterula	Guatemala	Fungus: Soil DNA
+139.	UDB05711266|a262b71a02dffcc7e35dc4c66bf9a864330c6e0f	Pterula	Guatemala	Fungus: Soil DNA
+140.	UDB05711269|b08d0d535f99adb1feecb3af4e4a12b5f94179b4	Pterula	Guatemala	Fungus: Soil DNA
+141.	UDB05711271|cfc6b6a86af62c5db66f0058d0454d33556d7543	Pterula	Guatemala	Fungus: Soil DNA
+142.	UDB05711274|d10bb63cdf22efacf2e113dcc6da261141f148b3	Pterula	Guatemala	Fungus: Soil DNA
+143.	UDB05711277|d2833070763b5cb5a7ec7f427bf0b645f4b17838	Pterula	Guatemala	Fungus: Soil DNA
+144.	UDB05711280|d6603e6d8dcc8d22a86f674e9128e45fcdea140e	Pterula	Guatemala	Fungus: Soil DNA
+145.	UDB05711283|e540fd2c39810dac077ad6473e5b8a3b15c6a9f1	Pterula	Guatemala	Fungus: Soil DNA
+146.	UDB05711286|e7979625ad9f9bf6f5e57af4e1dfc004079896bd	Pterula	Guatemala	Fungus: Soil DNA
+147.	UDB05711289|ebcf37feff1f926cd8db77be606c94c13df68f9f	Pterula	Guatemala	Fungus: Soil DNA
+148.	UDB05711292|ee1cf6eaf8d08677c5a882e56b26c90e52495c5e	Pterula	Guatemala	Fungus: Soil DNA
+149.	UDB05711295|ef7ee2a3e15ff42c85fdbd55abc04a1b413f364f	Pterula	Guatemala	Fungus: Soil DNA
+150.	UDB05711298|f5040c0919babeb98e93825adcd6e867c51f47b0	Pterula	Guatemala	Fungus: Soil DNA
+151.	UDB05711302|f665f6cd9165eb10144c11cfff43824ef09913f3	Pterula	Guatemala	Fungus: Soil DNA
+152.	UDB05711304|9cef6d4f730f4612185cd0ba4d8860e3e46f1fcb	Pterula	Benin	Fungus: Soil DNA
+153.	UDB05711309|5df24742683dfba7a7c2f5864993c26cc20bdc0a	Pterula	Benin	Fungus: Soil DNA
+154.	UDB05711312|6f625a228227e2cef80ebf7078c9d51b738edf66	Pterula	Benin	Fungus: Soil DNA
+155.	UDB05711316|9ab3743cacdf6bca091cda59c5e42bf1d65a0219	Pterula	Benin	Fungus: Soil DNA
+156.	UDB05711318|ae1450f0fe1e9d2bf4e07b646da670038baf08a3	Pterula	Benin	Fungus: Soil DNA
+157.	UDB05711321|daa9a1f63713f5e9096d2bd931f42daf107dc7bb	Pterula	Benin	Fungus: Soil DNA
+158.	UDB05711324|3ebafe7e5ded1205358a5f5af0cbd177ef397f80	Pterula	Benin	Fungus: Soil DNA
+159.	UDB05711327|0c9db78e84519870e9fc8f7a152ea537fb0148ac	Pterula	Benin	Fungus: Soil DNA
+160.	UDB05711330|03ca4784642bb056e01f9e913e5669f3f2ac99ae	Pterula	Ethiopia	Fungus: Soil DNA
+161.	UDB05711336|d9f36b02fed3ff83192c91206e0277a76911ed7b	Pterula	Ethiopia	Fungus: Soil DNA
+162.	UDB05711339|f3420e8d3d2d9f3fdc33fc70688d61a9b1848209	Pterula	Ethiopia	Fungus: Soil DNA
+163.	UDB05711341|cd6e707d8622a2c35c7e31a4ddda0712513e79bb	Pterula	Mexico	Fungus: Soil DNA
+164.	UDB05711345|594a2d70b8446adceb3c7e5e63d90dff0b21aecf	Pterula	Mexico	Fungus: Soil DNA
+165.	UDB05711348|0f081395b13c80c4127758f7a8d5630af10ac010	Pterula	Mexico	Fungus: Soil DNA
+166.	UDB05711350|1a51a65adfd3d4f6c81c8d0da432dc17816e4f03	Pterula	Mexico	Fungus: Soil DNA
+167.	UDB05711353|2dec36c3e702ee9affa5d0ff8478f0432988e39f	Pterula	Mexico	Fungus: Soil DNA
+168.	UDB05711356|3da88ad7ea1abff86e2729dfebb7ba93ec800ad7	Pterula	Mexico	Fungus: Soil DNA
+169.	UDB05711359|5124ac1d2db0bd8408c986bd5dbfc343f1b53fe9	Pterula	Mexico	Fungus: Soil DNA
+170.	UDB05711362|613dfa994c65b798d19f03eb005b4d049d96c0e2	Pterula	Mexico	Fungus: Soil DNA
+171.	UDB05711365|6312d37f41c8bc018bbb19c161e5708155c580e6	Pterula	Mexico	Fungus: Soil DNA
+172.	UDB05711368|677567cf54fadbfc8a5845c55654b8e8211bb833	Pterula	Mexico	Fungus: Soil DNA
+173.	UDB05711371|75125819770036032948dc8f3142f19c8eb629c3	Pterula	Mexico	Fungus: Soil DNA
+174.	UDB05711374|756078388c7666aa872bbfef943fbb3fc9edca6b	Pterula	Mexico	Fungus: Soil DNA
+175.	UDB05711376|7ff82fc4489439f825fc71aac4579dc5f30185e2	Pterula	Mexico	Fungus: Soil DNA
+176.	UDB05711378|83ff8a19cf64148b5dbc0bbbf3dc918002a85642	Pterula	Mexico	Fungus: Soil DNA
+177.	UDB05711381|8cdc7ded72e9e226337d403030ac41a70a72ec58	Pterula	Mexico	Fungus: Soil DNA
+178.	UDB05711384|a3bb06e3aafa63905d87e15f03e530286d8cd821	Pterula	Mexico	Fungus: Soil DNA
+179.	UDB05711387|b2ef7468cfd7b869b4289e54039488926eda73e0	Pterula	Mexico	Fungus: Soil DNA
+180.	UDB05711390|e645acf24b197f2233676b1b66a84e5f2957778f	Pterula	Mexico	Fungus: Soil DNA
+181.	UDB05711392|ef844572a63a63a5297e8788568ba2aee8fc8c06	Pterula	Mexico	Fungus: Soil DNA
+182.	UDB05711395|fed330dff95415648819a969dd27eacec51957d4	Pterula	Mexico	Fungus: Soil DNA
+183.	UDB05711398|187bbd58db9e19650e1bd2cdbdf2d3753315e3db	Pterula	Mexico	Fungus: Soil DNA
+184.	UDB05711401|77939ce86ad85f919fb3a876314404a836a68aa6	Pterula	Mexico	Fungus: Soil DNA
+185.	UDB05711404|0208f4b81c19fd0cbf24bc4aa7e53b451c24759b	Pterula	Mexico	Fungus: Soil DNA
+186.	UDB05711405|0674ce391d1b3dc84001ecc35e86c91950597e5a	Pterula	Mexico	Fungus: Soil DNA
+187.	UDB05711407|2191ab2ce6162b52b70c22abb307cf40d786e330	Pterula	Mexico	Fungus: Soil DNA
+188.	UDB05711409|4071236b5cc34bcb1062cc605b104bb08daf66f3	Pterula	Mexico	Fungus: Soil DNA
+189.	UDB05711411|8364f23fdc1ab60f146112f4ecfe6abaa12c16b7	Pterula	Mexico	Fungus: Soil DNA
+190.	UDB05711413|83713dee56ce17407fe4cca1f08e05410e0ca092	Pterula	Mexico	Fungus: Soil DNA
+191.	UDB05711414|84cdd06a2750f42281fd5a612c3551f5aa35ba66	Pterula	Mexico	Fungus: Soil DNA
+192.	UDB05711415|abd8ce082525106b415e087d749602c7a87bda3f	Pterula	Mexico	Fungus: Soil DNA
+193.	UDB05711416|d66b40af30d3c8a2064cacf71b9bd54d09bc0a9a	Pterula	Mexico	Fungus: Soil DNA
+194.	UDB05711417|de9b049105ace719b81e24e0b66b2e869fb48f60	Pterula	Mexico	Fungus: Soil DNA
+195.	UDB05711419|eb76a86bdf77cf569e6c54604ded9c0cba8c7625	Pterula	Mexico	Fungus: Soil DNA
+196.	UDB05711421|fb90dc2dcd4d766950bf898332ab0935ea58a78c	Pterula	Mexico	Fungus: Soil DNA
+197.	UDB05711424|ff4c8b8b297fa3b61c71e8796611ceec62024e2d	Pterula	Mexico	Fungus: Soil DNA
+198.	UDB05711425|df723e438b534a5e97c00f6d4bad5b043ca08e7b	Pterula	Mexico	Fungus: Soil DNA
+199.	UDB05711428|98a1ee6244d1a20dafa4a7c93765e9bd6722d71a	Pterula	Mexico	Fungus: Soil DNA
+200.	UDB05711430|37a4b899a5d04c945c78debf55f8f55b675337e2	Pterula	Mexico	Fungus: Soil DNA
+201.	UDB05711432|3890ed696af7ea3fb428c2adf22ef800639abba7	Pterula	Mexico	Fungus: Soil DNA
+202.	UDB05711434|b578a4df044126044fc17646165f8ee03e55bd4c	Pterula	Mexico	Fungus: Soil DNA
+203.	UDB05711436|e0a9b4e8e28bddd9ecc3c48ead9fff376409a10e	Pterula	Mexico	Fungus: Soil DNA
+204.	UDB05711438|e6e0ec5317b286e94c4c58d058e101767fa4a618	Pterula	Mexico	Fungus: Soil DNA
+205.	UDB05711440|0d960acabadbb53424d7d6b136b96af84f5ca80e	Pterula	Mexico	Fungus: Soil DNA
+206.	UDB05711442|196aba949cb31c2fe50efa36a1342a4473c8a49a	Pterula	Mexico	Fungus: Soil DNA
+207.	UDB05711443|a8c1de31cbfcf6fbecd2578765e8701bb87c1bf6	Pterula	Mexico	Fungus: Soil DNA
+208.	UDB05711445|10c06dcd1606b3c84f0eabf9dfe24d2521d3a523	Pterula	Mexico	Fungus: Soil DNA
+209.	UDB05711449|1412359a722cab4b868f5dc57af03869c42cd21e	Pterula	Mexico	Fungus: Soil DNA
+210.	UDB05711452|2466e3bc486e05a3b365c9a042ecb9a484a908e1	Pterula	Mexico	Fungus: Soil DNA
+211.	UDB05711454|437271d2813fa2840c050030bb88088f109a0d95	Pterula	Mexico	Fungus: Soil DNA
+212.	UDB05711457|5767e24088c2dc22154131cfb2f6d5b91af4f176	Pterula	Mexico	Fungus: Soil DNA
+213.	UDB05711460|63df07006dd1bb7d22c64ff702560c2897654b6a	Pterula	Mexico	Fungus: Soil DNA
+214.	UDB05711463|a9fd300b48a40c68760e3d97a1c0c29c759c14fa	Pterula	Mexico	Fungus: Soil DNA
+215.	UDB05711466|d82b82bc69f16b798fcce4a3714a8f2a1e7f0a5b	Pterula	Mexico	Fungus: Soil DNA
+216.	UDB05711470|e0c17fc4b3d8fdcc0bdff7814e153cf8c96c4605	Pterula	Mexico	Fungus: Soil DNA
+217.	UDB05711472|e4124b2656e63db0a78ca59324ef52b3a44b0bb1	Pterula	Mexico	Fungus: Soil DNA
+218.	UDB05711475|2b90d989f7a71340ad6fbb0e080a44a45862533c	Pterula	Mexico	Fungus: Soil DNA
+219.	UDB05711478|27829a9025c1d849183d15dea8a36bdcefde30b2	Pterula	Mexico	Fungus: Soil DNA
+220.	UDB05711481|3d8f73eee21411833d5729d961d57d378969c2c4	Pterula	Mexico	Fungus: Soil DNA
+221.	UDB05711483|40e9a7160188b28a441fb2733e46dc29b6713adf	Pterula	Mexico	Fungus: Soil DNA
+222.	UDB05711486|9d6ed534b26e521acf44730f00920282761dfa70	Pterula	Mexico	Fungus: Soil DNA
+223.	UDB05711489|a13c1b86d30aaf63708322ee4141a87edae0660f	Pterula	Mexico	Fungus: Soil DNA
+224.	UDB05711492|ac805f09c7e7726c1defba7f9a9d09c3042cdd42	Pterula	Mexico	Fungus: Soil DNA
+225.	UDB05711496|e1602a10364ed7bb7d379aeb474751475af0d9e7	Pterula	Mexico	Fungus: Soil DNA
+226.	UDB05711499|78bd15771271d8194231d87d49601e869b9c2aa4	Pterula	Mexico	Fungus: Soil DNA
+227.	UDB05711502|8b82c90fce4fa5860b4c1e317436472f5730ff89	Pterula	Mexico	Fungus: Soil DNA
+228.	UDB05711504|2cd654661813db978e5c0ecfbcff48928858b3c5	Pterula	Mexico	Fungus: Soil DNA
+229.	UDB05711506|7827ce1ae30522f22d73e8ba807ac74ed72cb7ab	Pterula	Mexico	Fungus: Soil DNA
+230.	UDB05711509|1235fc6a73ed61cc4522b6beaf58e5f9a90924ec	Pterula	Mexico	Fungus: Soil DNA
+231.	UDB05711512|1c56ae19680bb93b1969421848e2b26efb7de36b	Pterula	Mexico	Fungus: Soil DNA
+232.	UDB05711515|4dabd3c49516d5e7b7acb28cfa7030d79b5827fa	Pterula	Mexico	Fungus: Soil DNA
+233.	UDB05711519|8692f56b86ad6b2aa5b6ccd3a285652add6d7b18	Pterula	Mexico	Fungus: Soil DNA
+234.	UDB05711522|9957e61a9607460e08eef601fb2e143f215dc756	Pterula	Mexico	Fungus: Soil DNA
+235.	UDB05709655|18f86b3d8676f97f240f7be3679e02e8d1733e4e	Pterula	China	Fungus: Soil DNA
+236.	UDB05709657|4af695fc4104d9d13514e9561ff528f1babab2ca	Pterula	China	Fungus: Soil DNA
+237.	UDB05709659|9c3997481fd68a43e88cf358805578bc27405e4f	Pterula	China	Fungus: Soil DNA
+238.	UDB05709661|bc663dbf13ff00026c30175418cf6d6da045b6ba	Pterula	China	Fungus: Soil DNA
+239.	UDB05709663|c0159344d705f2a6c8f1d366265404acf53418a0	Pterula	China	Fungus: Soil DNA
+240.	UDB05709665|dfd4e858c598ae468a0a1698b2d4f4730be890a4	Pterula	United States	Fungus: Soil DNA
+241.	UDB05709667|498ba801e153e3d1b432e47c020bd46fb7bf4e6d	Pterula	United States	Fungus: Soil DNA
+242.	UDB05709669|3e2944cc20cd8d8b68d1645d754434ef33cfdfc6	Pterula	United States	Fungus: Soil DNA
+243.	UDB05709672|6e61da03cbf227dc6e940489bc41d8630eb0dfae	Pterula	United States	Fungus: Soil DNA
+244.	UDB05709674|74889d8ca05efacf00d4532e5491de1e446cec8b	Pterula	United States	Fungus: Soil DNA
+245.	UDB05709676|79e08c6876074b2c579750d67aaf0ed180d90e46	Pterula	United States	Fungus: Soil DNA
+246.	UDB05709678|c395e82aa7445252b14dbcef1dc9f4518c9d3825	Pterula	United States	Fungus: Soil DNA
+247.	UDB05709680|ceb7a94d4cd6af4ec31fc9e8c96b1dc3391d517a	Pterula	United States	Fungus: Soil DNA
+248.	UDB05709682|d0e4f3f2df18c7088149404972f74c130a50ce22	Pterula	United States	Fungus: Soil DNA
+249.	UDB05709684|8fd40a16607625a5a2f9b17aff8a3be756622801	Pterula	Morocco	Fungus: Soil DNA
+250.	UDB05709687|524cb8a10c40f08a81bc7f7fbb27ea4563918268	Pterula	Morocco	Fungus: Soil DNA
+251.	UDB05709689|9e81bf470cb3313c1da6544bb9ee04fec706e628	Pterula	Morocco	Fungus: Soil DNA
+252.	UDB05709690|ad0321a840e8e386d1d90d7c911c46d7d48d2167	Pterula	Morocco	Fungus: Soil DNA
+253.	UDB05709692|14ef57c544d0649770f1614e44c60fb752f9d586	Pterula	French Guiana	Fungus: Soil DNA
+254.	UDB05709695|aeec2fa3ed6c8fc2f3352aebb721c83b48ab897c	Pterula	French Guiana	Fungus: Soil DNA
+255.	UDB05709697|ba8f9ec59c2490b579bb40d4be0aaa0e3d39e7b5	Pterula	French Guiana	Fungus: Soil DNA
+256.	UDB05709699|c5f8067699b64b65152ed1c28898f7a50b1aee89	Pterula	French Guiana	Fungus: Soil DNA
+257.	UDB05709701|dcd320404f381cd7f4655ea03551eb04f8953ead	Pterula	French Guiana	Fungus: Soil DNA
+258.	UDB05709703|244a2ce5716e6ab5ec348d45433eba12a4f005a6	Pterula	China	Fungus: Soil DNA
+259.	UDB05709705|e646a04a9574275f25336d6bf17ff17221be9976	Pterula	China	Fungus: Soil DNA
+260.	UDB05709707|f39b8cfd748c1eb8dd15c3d547c54478ea9477b3	Pterula	China	Fungus: Soil DNA
+261.	UDB05709709|1ffbdada012757e9d92081a52fa0cab0f8b998d6	Pterula	Colombia	Fungus: Soil DNA
+262.	UDB05709711|33f93e9ddeb3d2defaf84791ebeba24950cefefc	Pterula	Colombia	Fungus: Soil DNA
+263.	UDB05709713|924775793690ab40f1d156d7dc447f9919a24af1	Pterula	Colombia	Fungus: Soil DNA
+264.	UDB05709715|a636fd7f24b18074a8df1e797ab06679307e7e15	Pterula	Colombia	Fungus: Soil DNA
+265.	UDB05709717|f79aaa577ca81b3477e2611b148f7c0652bea15e	Pterula	Colombia	Fungus: Soil DNA
+266.	UDB05709719|fb43de9b14f84f1d3218ce3dea288d21f0511e00	Pterula	United States	Fungus: Soil DNA
+267.	UDB05709721|fc31633fb5eacd9d7c211ec7f36c2547bc47a66c	Pterula	United States	Fungus: Soil DNA
+268.	UDB05709724|9e34de9b31c11cf59eeeb474d205268980a82e13	Pterula	United States	Fungus: Soil DNA
+269.	UDB05709726|0356123cdc3f5946091f70c64672519f05a5e7f1	Pterula	United States	Fungus: Soil DNA
+270.	UDB05709728|32fc255a35b2f569f1d9f1f89575ca26f22f146f	Pterula	United States	Fungus: Soil DNA
+271.	UDB05709730|7a3e9c47809b15072c08a545f7d756612763cde3	Pterula	United States	Fungus: Soil DNA
+272.	UDB05709732|80f0ed8eb5f0b8e61fadc58de1324a7460bee32a	Pterula	United States	Fungus: Soil DNA
+273.	UDB05709735|979865ec1c7172fd9892b6564bcba69256e95838	Pterula	United States	Fungus: Soil DNA
+274.	UDB05709737|a29710d93b446e7c9ad321efcab097a3a3230f86	Pterula	United States	Fungus: Soil DNA
+275.	UDB05709739|aba7a9b8030688465fe44d91daf8e5b4742df1cc	Pterula	United States	Fungus: Soil DNA
+276.	UDB05709741|b34f9df6f80452ff04315e93993b4a37b22d7cac	Pterula	United States	Fungus: Soil DNA
+277.	UDB05709743|e2c0a86b92b03893046c25f8aba64007840357a9	Pterula	United States	Fungus: Soil DNA
+278.	UDB05709745|e8340481c2269a136d3e5ffa78a23a56996e76b0	Pterula	United States	Fungus: Soil DNA
+279.	UDB05709749|f06a316f06470f569a6f1989116c37ca605e8e98	Pterula	United States	Fungus: Soil DNA
+280.	UDB05709751|0c810ade4b0561f7fe5b415f10c7bc0314518d5f	Pterula	Cuba	Fungus: Soil DNA
+281.	UDB05709753|05d692e0e64fec8e0242ec96f5f07cd938902cfe	Pterula	Cuba	Fungus: Soil DNA
+282.	UDB05709755|2fdbb3eb353bc56a45223f3f1fdbb9f331b91924	Pterula	Cuba	Fungus: Soil DNA
+283.	UDB05709757|82690c3b2caddc252846306a88aa106d7c83a531	Pterula	Cuba	Fungus: Soil DNA
+284.	UDB05709759|ae8c45922d7da77377adcd9956e3bc6f794bed6c	Pterula	Cuba	Fungus: Soil DNA
+285.	UDB05709761|ee13757440c93a75a97081498d6de063e46ee8f9	Pterula	Cuba	Fungus: Soil DNA
+286.	UDB05709764|fb43de9b14f84f1d3218ce3dea288d21f0511e00	Pterula	Greenland	Fungus: Soil DNA
+287.	UDB05709767|fc31633fb5eacd9d7c211ec7f36c2547bc47a66c	Pterula	Greenland	Fungus: Soil DNA
+288.	UDB05709770|fbb35a4205c56253e52894a438877580a5c0c810	Pterula	Greenland	Fungus: Soil DNA
+289.	UDB05709773|00328fe3c86404d85582ca1f7fb7648cf1a1c2ce	Pterula	Greenland	Fungus: Soil DNA
+290.	UDB05709777|0822151d01a9822245b2f30fe7f8c653bc9bab3b	Pterula	Greenland	Fungus: Soil DNA
+291.	UDB05709780|093450d1f14811b75cc1a2f55fc1abe5508f641a	Pterula	Greenland	Fungus: Soil DNA
+292.	UDB05709783|0acb1b282f83867df7d7e893a24d842c38254fdb	Pterula	Greenland	Fungus: Soil DNA
+293.	UDB05709786|0f48421f1bf935f0e3c4f52bd7e66bd1b21c8e7a	Pterula	Greenland	Fungus: Soil DNA
+294.	UDB05709790|137f6ef98283e52b4a2569ebea32d6912bf32df9	Pterula	Greenland	Fungus: Soil DNA
+295.	UDB05709793|3768c0e4b89eb2fcd8c5e4e03af4260e096b9bde	Pterula	Greenland	Fungus: Soil DNA
+296.	UDB05709957|4c989335ea4fae1907ba6934e31ae7dd4ff67465	Pterula	Greenland	Fungus: Soil DNA
+297.	UDB05709959|527253547aa2543316b04b920ffa47f3f875375f	Pterula	Greenland	Fungus: Soil DNA
+298.	UDB05709961|625d46bbea4ea2b3a63e2c3403481761d4e98d5e	Pterula	Greenland	Fungus: Soil DNA
+299.	UDB05709963|6b98b43af807240b344878e34dbeac372d08a6f8	Pterula	Greenland	Fungus: Soil DNA
+300.	UDB05709965|7a0f06ee4b4294b48dbe993b562d675a20499b2c	Pterula	Greenland	Fungus: Soil DNA
+301.	UDB05709967|89e33e9681281f837e26ef945f0b2f2aef5e170d	Pterula	Greenland	Fungus: Soil DNA
+302.	UDB05709970|8c59869229475f1c4bd09476e1de832f0809ed0d	Pterula	Greenland	Fungus: Soil DNA
+303.	UDB05709973|977c4589b43066115107c1161daa200850a42563	Pterula	Greenland	Fungus: Soil DNA
+304.	UDB05709976|a44c49b39830a3d95d91ea6a35cf829de879a106	Pterula	Greenland	Fungus: Soil DNA
+305.	UDB05709979|a4818bc7a810cbcf86c5597c28d5e28e9ca17342	Pterula	Greenland	Fungus: Soil DNA
+306.	UDB05709982|a9021f1fe70f105a983cfbda8b51815f08860db1	Pterula	Greenland	Fungus: Soil DNA
+307.	UDB05709985|ad61d01cf64dc7c5c4096691f17a3812385768c9	Pterula	Greenland	Fungus: Soil DNA
+308.	UDB05709987|d1471fe94da5ecc22f38c71c81abc9ccd4b244c8	Pterula	Greenland	Fungus: Soil DNA
+309.	UDB05709992|e30e4cd1d1efbce4fa4f90bd1ec17d0a1d5d43c2	Pterula	Greenland	Fungus: Soil DNA
+310.	UDB05709995|e3107fd297aabde9be7803d946ae4d188bb2fbf1	Pterula	Greenland	Fungus: Soil DNA
+311.	UDB05709999|e5ffa3cb6da2047047f02615b61a21649ebd94a2	Pterula	Greenland	Fungus: Soil DNA
+312.	UDB05710003|fba4d634a73fa1871bd1bded0ae6d1556ab440ce	Pterula	Greenland	Fungus: Soil DNA
+313.	UDB05710006|3ea09a8dc6d4d244d2725008628fb046b3a129dd	Pterula	Uganda	Fungus: Soil DNA
+314.	UDB05710009|8a30663e3fcf3ce6661fc82eddc63ceebe5b659f	Pterula	Uganda	Fungus: Soil DNA
+315.	UDB05710012|9050de586c55248d804c7718071b24b2101ce0b0	Pterula	Uganda	Fungus: Soil DNA
+316.	UDB05710017|52fb2d590cb6b0378c66eda8be8a897c72ca705a	Pterula	Uganda	Fungus: Soil DNA
+317.	UDB05710019|7d7391eb415ea12251c756b50ddf2f5e615a18f5	Pterula	Uganda	Fungus: Soil DNA
+318.	UDB05710023|9d0653add92ef1084b0ac6fe9dcb1ce90d94559d	Pterula	Uganda	Fungus: Soil DNA
+319.	UDB05710025|c4a371d4785cca39866003cd8473ccdc316d980d	Pterula	Uganda	Fungus: Soil DNA
+320.	UDB05710028|203289f247979563ed3f2a796b0a70a0ce1fc654	Pterula	India	Fungus: Soil DNA
+321.	UDB05710031|6ddd93f8228c037bfe7e55a70b3bfdd1a8d2b9c4	Pterula	India	Fungus: Soil DNA
+322.	UDB05710034|ae4b04c515a878e15932fb42839df81fc474872a	Pterula	United States	Fungus: Soil DNA
+323.	UDB05710039|084b5535fc4005f5e3ea0c5100fd2066bb084057	Pterula	United States	Fungus: Soil DNA
+324.	UDB05710042|1294d37aadcffae776191746cc3f9b5520a2409d	Pterula	United States	Fungus: Soil DNA
+325.	UDB05710045|9e2d5a40f1b3dfa0e7d6cde2fc5b6cd9834de974	Pterula	United States	Fungus: Soil DNA
+326.	UDB05710048|e9edeb4f3b6ed47f81ab13d83b8b8fea2ec2a16a	Pterula	United States	Fungus: Soil DNA
+327.	UDB05710051|3b7afefabe4daaa12380c07bc5c76b9c19871db4	Pterula	United States	Fungus: Soil DNA
+328.	UDB05710055|af511e279503941b92670b72a5b5833c4eebe1e5	Pterula	United States	Fungus: Soil DNA
+329.	UDB05710057|e9edeb4f3b6ed47f81ab13d83b8b8fea2ec2a16a	Pterula	United States	Fungus: Soil DNA
+330.	UDB05710059|2be0bd4ee534a9526533816979a54af3031dcc30	Pterula	United States	Fungus: Soil DNA
+331.	UDB05710061|809d854f6732701f4e3037760aee03040d8cf0d1	Pterula	United States	Fungus: Soil DNA
+332.	UDB05710063|bee34038bcaba598fbc9dca3c7c1363f8602569e	Pterula	United States	Fungus: Soil DNA
+333.	UDB05710066|dfd7fc2906e25c754d5e1af61076659230243623	Pterula	United States	Fungus: Soil DNA
+334.	UDB05710068|e4affe36bae96b25031c66074ecb184f7deace0d	Pterula	United States	Fungus: Soil DNA
+335.	UDB05710070|a7308eab1defb77a97c307513bc40eaf6286b351	Pterula	Puerto Rico	Fungus: Soil DNA
+336.	UDB05710072|5cf6fe0b1b3d4f11830e47e3bfce23986f2eed78	Pterula	Puerto Rico	Fungus: Soil DNA
+337.	UDB05710074|1bac8d307b356b529776363727952212004ee5e4	Pterula	Puerto Rico	Fungus: Soil DNA
+338.	UDB05710076|e3071d940d4124ffd0aeb8634eedc73ba02ce524	Pterula	Puerto Rico	Fungus: Soil DNA
+339.	UDB05710078|11971033f33906cff2bdb75b9db026210bcfa057	Pterula	Puerto Rico	Fungus: Soil DNA
+340.	UDB05710080|1c1bbb5bc956a0b1e10bb2f1d947c8e9da82d525	Pterula	Puerto Rico	Fungus: Soil DNA
+341.	UDB05710082|cd110209e28d9e2bbe756b1a976bc506c6155a87	Pterula	Puerto Rico	Fungus: Soil DNA
+342.	UDB05710084|214ebc9a595eef5b621da265149e5de6f7070e50	Pterula	Puerto Rico	Fungus: Soil DNA
+343.	UDB05710086|2bba9103b014b79ab35a1ce50b0c75bac61361e0	Pterula	Puerto Rico	Fungus: Soil DNA
+344.	UDB05710088|05a2608647cff49acac4bddb87c7344a372eb5a2	Pterula	Puerto Rico	Fungus: Soil DNA
+345.	UDB05710090|0741b5f2dd327022b20b75493f66d3952e02f941	Pterula	Puerto Rico	Fungus: Soil DNA
+346.	UDB05710092|08deed1e24d0954ccaff97ab498b49a7e544a1b4	Pterula	Puerto Rico	Fungus: Soil DNA
+347.	UDB05710094|0b6fb8ed648ffc9757556fe2070b2fcaf6c71733	Pterula	Puerto Rico	Fungus: Soil DNA
+348.	UDB05710096|0f4f5f631b49ca2cedeebfb14b78fd5897217491	Pterula	Puerto Rico	Fungus: Soil DNA
+349.	UDB05710098|19c3ac856f3c564b091f1eff411d347c24633be1	Pterula	Puerto Rico	Fungus: Soil DNA
+350.	UDB05710100|1c5155cce6eeda4a120058183a063d9fa60fc76a	Pterula	Puerto Rico	Fungus: Soil DNA
+351.	UDB05710102|24ce44cef87735366c52b2d793800ad4abc3a1fb	Pterula	Puerto Rico	Fungus: Soil DNA
+352.	UDB05710104|32e0a8dbd3a69c2c0901ea2c3fbf4b43eec1925a	Pterula	Puerto Rico	Fungus: Soil DNA
+353.	UDB05710106|36b6561e88474783d4f9ed5bc01a34347047d9ee	Pterula	Puerto Rico	Fungus: Soil DNA
+354.	UDB05710108|37f809a081a825e27867b3f900fb4af52defd0f5	Pterula	Puerto Rico	Fungus: Soil DNA
+355.	UDB05710110|3df3a8a53ff46cdd3c4b3439a42bffc1e31396e3	Pterula	Puerto Rico	Fungus: Soil DNA
+356.	UDB05710112|419477f27c4e2f2f4d30c8cd5340593d78a6d5a1	Pterula	Puerto Rico	Fungus: Soil DNA
+357.	UDB05710114|465f2303a6d010b23e831a26e98166aa1dd5f278	Pterula	Puerto Rico	Fungus: Soil DNA
+358.	UDB05710116|4d994d54a9205d79862baa952ab51b64ebbb3267	Pterula	Puerto Rico	Fungus: Soil DNA
+359.	UDB05710118|50065b614cbed0449d7e62362020f0647c726afb	Pterula	Puerto Rico	Fungus: Soil DNA
+360.	UDB05710120|50dd35ab2336acb87716de481d6a66939f7c5e9f	Pterula	Puerto Rico	Fungus: Soil DNA
+361.	UDB05710121|561b4eca4cb80a86fe173065deb3ee14b7ecb7bc	Pterula	Puerto Rico	Fungus: Soil DNA
+362.	UDB05710123|58196c04c13db1c098b4425a1d3b02169cc9a47d	Pterula	Puerto Rico	Fungus: Soil DNA
+363.	UDB05710125|5ec45d4bccef6b48b201bac3e73ed874604ca270	Pterula	Puerto Rico	Fungus: Soil DNA
+364.	UDB05710127|6666633aa84127e4af48b692091ceab85dedba2e	Pterula	Puerto Rico	Fungus: Soil DNA
+365.	UDB05710129|6991f7af162fb73e155933ec1f062ec9fcbfdc36	Pterula	Puerto Rico	Fungus: Soil DNA
+366.	UDB05710131|6e9da6e79381afa074e1a8d11b37fdca9eacbbe7	Pterula	Puerto Rico	Fungus: Soil DNA
+367.	UDB05710133|7146d1bec18709019c9250261d509ac963fd6904	Pterula	Puerto Rico	Fungus: Soil DNA
+368.	UDB05710135|73db751a9372d71be654fbbaf2c2cde524693b39	Pterula	Puerto Rico	Fungus: Soil DNA
+369.	UDB05710137|78a72e25fcd5895c4e8cfbdbebba8bd5630a04ff	Pterula	Puerto Rico	Fungus: Soil DNA
+370.	UDB05710139|7a923f4da8b57ea9f88a79dc38f1378700b6a245	Pterula	Puerto Rico	Fungus: Soil DNA
+371.	UDB05710141|81cc6f4552f247a8321868ed0f4cdd02f9c6752d	Pterula	Puerto Rico	Fungus: Soil DNA
+372.	UDB05710143|90bc0fc8d80b835a87f00efe300c6d51c9144262	Pterula	Puerto Rico	Fungus: Soil DNA
+373.	UDB05710145|979af8ada65bd9b0c118ded5dbec6e8c0b6cc45e	Pterula	Puerto Rico	Fungus: Soil DNA
+374.	UDB05710147|9984d4783699daf23a78be68ca3e00c8ac1f4e1d	Pterula	Puerto Rico	Fungus: Soil DNA
+375.	UDB05710149|9f1f6f8b097d4dd7884120defbd7de6e83afa4c4	Pterula	Puerto Rico	Fungus: Soil DNA
+376.	UDB05710151|a5afe93359688886432c4c49ab234810b4c6c8e6	Pterula	Puerto Rico	Fungus: Soil DNA
+377.	UDB05710153|a73eac84ec02c4633dce206fc3f4f2ceac432006	Pterula	Puerto Rico	Fungus: Soil DNA
+378.	UDB05710155|b05489f26b42dfbc25a92c27514bdf6e3c5ba51a	Pterula	Puerto Rico	Fungus: Soil DNA
+379.	UDB05710157|c4a188d1fb54d3be1bfbcf789958d6b9018e6e0e	Pterula	Puerto Rico	Fungus: Soil DNA
+380.	UDB05710159|c88d9d9500877ad95a9ee8ce0f60d344bb7d066d	Pterula	Puerto Rico	Fungus: Soil DNA
+381.	UDB05710161|d5b98319a08b41b70c6e50368c2ca1a735fcf3be	Pterula	Puerto Rico	Fungus: Soil DNA
+382.	UDB05710162|dadf2ddb01f31d9a198258bbe40539241cff9525	Pterula	Puerto Rico	Fungus: Soil DNA
+383.	UDB05710164|db01b5defe1c1411417b369c921074368daf2e05	Pterula	Puerto Rico	Fungus: Soil DNA
+384.	UDB05710167|ddf15cc29187f62306d8a96ebe3b77906dad9ae1	Pterula	Puerto Rico	Fungus: Soil DNA
+385.	UDB05710169|dfe2d9210ad2add82e07ea6e548cc3d42dd1937c	Pterula	Puerto Rico	Fungus: Soil DNA
+386.	UDB05710171|ebd4229c94900ef27b1c2b56a449a29d47bb9d41	Pterula	Puerto Rico	Fungus: Soil DNA
+387.	UDB05710173|ef387c7543d6e50fe085ba246191e8b98af350b4	Pterula	Puerto Rico	Fungus: Soil DNA
+388.	UDB05710175|efa01326adf0d59a027e4c302a7c3f0f7911606f	Pterula	Puerto Rico	Fungus: Soil DNA
+389.	UDB05710177|f418c7488c4a345a9bda46871e6e5c3095adc38b	Pterula	Puerto Rico	Fungus: Soil DNA
+390.	UDB05710179|fbb27b0b5e2340e468c93bbb0440123a8c4f678e	Pterula	Puerto Rico	Fungus: Soil DNA
+391.	UDB05710181|fc5b042738aec0496b1e62522e47f671e5839f34	Pterula	Puerto Rico	Fungus: Soil DNA
+392.	UDB05710183|000dcb9ebfb32aec9f89e02b48bbd20a888b0c3d	Pterula	Puerto Rico	Fungus: Soil DNA
+393.	UDB05710185|0717704f5e148a4ce9786a9ef16b343d9682661f	Pterula	Puerto Rico	Fungus: Soil DNA
+394.	UDB05710294|0c9e9dc79ac30344c75b2ed50dcd19368ed5889b	Pterula	Puerto Rico	Fungus: Soil DNA
+395.	UDB05710296|0f629cbf31bb1812bc50a3ca4b9a7997548efdf1	Pterula	Puerto Rico	Fungus: Soil DNA
+396.	UDB05710299|0fb52e4e72c7783963fa5ae5371adb2ab98ef799	Pterula	Puerto Rico	Fungus: Soil DNA
+397.	UDB05710302|100b430f35df0f01c62b88838a080a64cd61a70d	Pterula	Puerto Rico	Fungus: Soil DNA
+398.	UDB05710305|1126937bc252fe9df26925290ffcd85bdb2f4248	Pterula	Puerto Rico	Fungus: Soil DNA
+399.	UDB05710308|11cec04eda4f63e7fca24fb65bb84a32b3e9fd1b	Pterula	Puerto Rico	Fungus: Soil DNA
+400.	UDB05710311|126a2f64883b74ce9c1f3904ecd334d8d6a39ef5	Pterula	Puerto Rico	Fungus: Soil DNA
+401.	UDB05710314|17a0a5d17ee285c28c4164f42777dd90dd61bfc5	Pterula	Puerto Rico	Fungus: Soil DNA
+402.	UDB05710317|18413be713600bbc7f02534aac3b45477767c3c8	Pterula	Puerto Rico	Fungus: Soil DNA
+403.	UDB05710320|207bc5bd0d7ba51349c75f42829137b199e86bbd	Pterula	Puerto Rico	Fungus: Soil DNA
+404.	UDB05710323|22f7c39b8245f5c9a70bf21d9ea7c60884cfc713	Pterula	Puerto Rico	Fungus: Soil DNA
+405.	UDB05710326|2310d5275554f28feda1051af4c4fdf456536b94	Pterula	Puerto Rico	Fungus: Soil DNA
+406.	UDB05710329|24243148cef1b3b666e04433a2b644df546ae052	Pterula	Puerto Rico	Fungus: Soil DNA
+407.	UDB05710332|24bef841eafe44cf4f69878079d96a8358a86c9d	Pterula	Puerto Rico	Fungus: Soil DNA
+408.	UDB05710335|24f034547b2f2be989c8e646cc98ea7b1663e8c5	Pterula	Puerto Rico	Fungus: Soil DNA
+409.	UDB05710338|2573132406f696d1fcd92d779c0f56d705cd8f87	Pterula	Puerto Rico	Fungus: Soil DNA
+410.	UDB05710341|2af9f849e72a1b37ca330a1507cb37a979922a1e	Pterula	Puerto Rico	Fungus: Soil DNA
+411.	UDB05710344|2b2c96bf56e362614f9ab5f63fec6328c8cf52d3	Pterula	Puerto Rico	Fungus: Soil DNA
+412.	UDB05710346|2df7ceaa67e0f5f2930a45c1558e9149c1d6609e	Pterula	Puerto Rico	Fungus: Soil DNA
+413.	UDB05710349|2e27f712a411b49cd7a022981a1eb2660175e354	Pterula	Puerto Rico	Fungus: Soil DNA
+414.	UDB05710352|2edc900b986e96192c6356caa54b3892663aaa32	Pterula	Puerto Rico	Fungus: Soil DNA
+415.	UDB05710355|31002aaf1ad2246bfe08b4c2fb6f4573f41b2d3f	Pterula	Puerto Rico	Fungus: Soil DNA
+416.	UDB05710358|325b26cecca4774642c0e9f4096e26ab01325f27	Pterula	Puerto Rico	Fungus: Soil DNA
+417.	UDB05710361|35098bbb0702a1c7a7ba8363043a85bd9abe5157	Pterula	Puerto Rico	Fungus: Soil DNA
+418.	UDB05710364|38c4e9be40591891c3150b6582e3db4cbe8d787a	Pterula	Puerto Rico	Fungus: Soil DNA
+419.	UDB05710367|3a7493c6835f6ef9f03602063b59603fb3c9426d	Pterula	Puerto Rico	Fungus: Soil DNA
+420.	UDB05710370|40b127f211fa0054181ff61980612a35daf55172	Pterula	Puerto Rico	Fungus: Soil DNA
+421.	UDB05710373|41de3dc8e462e0ff3ccc5664623ce2a894d64373	Pterula	Puerto Rico	Fungus: Soil DNA
+422.	UDB05710376|47aafce30e43877b1b76fab19b03973cbadba768	Pterula	Puerto Rico	Fungus: Soil DNA
+423.	UDB05710378|4b371d90e32c71a535e8db69d92ff4dafb064566	Pterula	Puerto Rico	Fungus: Soil DNA
+424.	UDB05710381|52691847bc0fd4a719b89977c5fbf6acbcd4b9da	Pterula	Puerto Rico	Fungus: Soil DNA
+425.	UDB05710384|599c90bcfc77873fc9e32707e06eb5f50ac61a38	Pterula	Puerto Rico	Fungus: Soil DNA
+426.	UDB05710386|667661996d54a0d3fdd15a841dd248085f0eb5f8	Pterula	Puerto Rico	Fungus: Soil DNA
+427.	UDB05710389|6b8f481591a166d7c34dcb47cea602f194458ae5	Pterula	Puerto Rico	Fungus: Soil DNA
+428.	UDB05710392|70d5667fc8a4dcf4ddd23b060784fb0f08baf9f6	Pterula	Puerto Rico	Fungus: Soil DNA
+429.	UDB05710395|719c9d35094a678ead4cd4ca4979b3da2c7076e5	Pterula	Puerto Rico	Fungus: Soil DNA
+430.	UDB05710398|74d8e9d14a9c50199f850f656a603adb6a9c1b28	Pterula	Puerto Rico	Fungus: Soil DNA
+431.	UDB05710400|77f90627d557b4b90195b208fb1e018c9647b3ef	Pterula	Puerto Rico	Fungus: Soil DNA
+432.	UDB05710402|782fcc1dd3a290f5e84246eed57d4261eb9c2992	Pterula	Puerto Rico	Fungus: Soil DNA
+433.	UDB05710404|7a41af487773a5695a1e7b61d58b67f0c21108ca	Pterula	Puerto Rico	Fungus: Soil DNA
+434.	UDB05710406|7b854229878a9f41fc1f0c0da0621c7057788ffb	Pterula	Puerto Rico	Fungus: Soil DNA
+435.	UDB05710408|83fb14a5af873ffa957e561274c4fc1d8982b349	Pterula	Puerto Rico	Fungus: Soil DNA
+436.	UDB05710410|84da2d82a63283549002cd841e042c3ce5949c49	Pterula	Puerto Rico	Fungus: Soil DNA
+437.	UDB05710412|882dab6bb3147bb17deee1541a1232b230ca50b7	Pterula	Puerto Rico	Fungus: Soil DNA
+438.	UDB05710414|886ea91cbf77bb464ccade824d94ee8fd96022d6	Pterula	Puerto Rico	Fungus: Soil DNA
+439.	UDB05710416|8b06df9be0d345d76d4da89880217c04b0ef4f15	Pterula	Puerto Rico	Fungus: Soil DNA
+440.	UDB05710419|8bf654ca290a805d58e4388014ff200bb927982d	Pterula	Puerto Rico	Fungus: Soil DNA
+441.	UDB05710422|8ce28a8a59f09c534c090906396d778a468bbf0e	Pterula	Puerto Rico	Fungus: Soil DNA
+442.	UDB05710425|8efe0a752483fb42c0b5968a13639c36bc1ee34d	Pterula	Puerto Rico	Fungus: Soil DNA
+443.	UDB05710428|8f7f4414e4a9c6940acb50344ec1a8e4fdd74f7d	Pterula	Puerto Rico	Fungus: Soil DNA
+444.	UDB05710431|8fddb4e12eda684cb13bc343280b61ddd3efde01	Pterula	Puerto Rico	Fungus: Soil DNA
+445.	UDB05710434|964caa283cf77af5a7cf28122cf059f8a88c5c15	Pterula	Puerto Rico	Fungus: Soil DNA
+446.	UDB05710437|9d618cdda4e8cb9d463f7711bf5d362e1c5dbdb2	Pterula	Puerto Rico	Fungus: Soil DNA
+447.	UDB05710440|a1b71c743de0e786e52026dd04fc8dfc88b477c1	Pterula	Puerto Rico	Fungus: Soil DNA
+448.	UDB05710442|a7baa875f62663fc6929eebba7d7a40f4d55e646	Pterula	Puerto Rico	Fungus: Soil DNA
+449.	UDB05710446|a8875de7772c111b32e9ae92cafb1bdc96825e53	Pterula	Puerto Rico	Fungus: Soil DNA
+450.	UDB05710449|aa2b80e7315e22435b307b906347c2d80c39e964	Pterula	Puerto Rico	Fungus: Soil DNA
+451.	UDB05710452|aa6a8172a2fc9870774f8e826c01484ed1ef1f8a	Pterula	Puerto Rico	Fungus: Soil DNA
+452.	UDB05710453|aaa9f5f275a3d46bdee78657f8275a1d077ba5db	Pterula	Puerto Rico	Fungus: Soil DNA
+453.	UDB05710456|aea4a00b66b32537cc9f345583919426ba37612a	Pterula	Puerto Rico	Fungus: Soil DNA
+454.	UDB05710458|b07a69944e72b4c60641e7b753190c36020f189d	Pterula	Puerto Rico	Fungus: Soil DNA
+455.	UDB05710460|b1e9c6eb9ea02b655060ea4b875691f0c0f5cce6	Pterula	Puerto Rico	Fungus: Soil DNA
+456.	UDB05710462|b239b033332f6f317f14bceaaafa49603f300d38	Pterula	Puerto Rico	Fungus: Soil DNA
+457.	UDB05710463|b8e3f5e300f2dcd8277efc0998f53f26ea816066	Pterula	Puerto Rico	Fungus: Soil DNA
+458.	UDB05710465|bc32d947e4538b653646b2dfaca0cbcd6a7b956e	Pterula	Puerto Rico	Fungus: Soil DNA
+459.	UDB05710467|bcb1e5becacc27e07c36f47ce71825e1d33a5e8d	Pterula	Puerto Rico	Fungus: Soil DNA
+460.	UDB05710470|bf8f0ac8bf3b7bd9d1e8a9f4910a4dc7f1f14c2b	Pterula	Puerto Rico	Fungus: Soil DNA
+461.	UDB05710472|c6501b5284780c9dec484d10902ee3d93d206bed	Pterula	Puerto Rico	Fungus: Soil DNA
+462.	UDB05710473|c732a2cc7e2991e7439e8f1993346281a16641fb	Pterula	Puerto Rico	Fungus: Soil DNA
+463.	UDB05710475|cd45118bf542b8252538311dea749fa6e6d36e06	Pterula	Puerto Rico	Fungus: Soil DNA
+464.	UDB05710477|ce51fbb3f6b5a5a7dc97b683c894f72cd9b1780e	Pterula	Puerto Rico	Fungus: Soil DNA
+465.	UDB05710479|d31d1e02c8573306061059c6dd2896b1d332d2c1	Pterula	Puerto Rico	Fungus: Soil DNA
+466.	UDB05710481|d5ccc9f2d0c69143789ac1ce72f82bfda7cf56e0	Pterula	Puerto Rico	Fungus: Soil DNA
+467.	UDB05710483|dd80ff9cdc15edfeaf29097f344886a115b34b25	Pterula	Puerto Rico	Fungus: Soil DNA
+468.	UDB05710485|e373f3d96c68cd75b99a52b8388c6b8f6046e6ea	Pterula	Puerto Rico	Fungus: Soil DNA
+469.	UDB05710488|eae482deb4bf2b61c7dbc764d36ef764985bfed3	Pterula	Puerto Rico	Fungus: Soil DNA
+470.	UDB05710491|eb4f0fa0f29cb6018d0bbadc5eb24a6f544764c4	Pterula	Puerto Rico	Fungus: Soil DNA
+471.	UDB05710494|ebe83d189c4928ba42379c068e82a7d1cb4f2f8c	Pterula	Puerto Rico	Fungus: Soil DNA
+472.	UDB05710497|ecf870c1b1c3e11984ff08d50ea9a6ae934148bf	Pterula	Puerto Rico	Fungus: Soil DNA
+473.	UDB05710500|ee9122cb2d8bbb890a1067be5356e5be51d45e51	Pterula	Puerto Rico	Fungus: Soil DNA
+474.	UDB05710502|f112f31bbeced4ec0dc16a6d08b7e008dd22e304	Pterula	Puerto Rico	Fungus: Soil DNA
+475.	UDB05710504|f4f301585aa2bff51e754847a737193684399f10	Pterula	Puerto Rico	Fungus: Soil DNA
+476.	UDB05710507|fa159a47f7a047f0708eccf03a98f2b57c6cc818	Pterula	Puerto Rico	Fungus: Soil DNA
+477.	UDB05710511|3497bbe2cb00ec16231961f19136c4784dd65f28	Pterula	Virgin Islands, British	Fungus: Soil DNA
+478.	UDB05710513|c0444c988de08c8fba792dd8841cdad01ec21fa9	Pterula	Virgin Islands, British	Fungus: Soil DNA
+479.	UDB05710518|56396d54daf6b9d23cf12114f1bd5aa015947132	Pterula	Dominica	Fungus: Soil DNA
+480.	UDB05710520|0d2b13cef18f641f70b5992d57efa8310bc8112d	Pterula	Dominica	Fungus: Soil DNA
+481.	UDB05710523|0f0d8234725d7819e4da1cfe94698884ee82dcbf	Pterula	Dominica	Fungus: Soil DNA
+482.	UDB05710526|1ca838ac2fe4443f43bb59eca5067961b66b8aac	Pterula	Dominica	Fungus: Soil DNA
+483.	UDB05710529|3e04670300942f80ab844fbb9f12d64e0ab07440	Pterula	Dominica	Fungus: Soil DNA
+484.	UDB05710532|6def2590caf5ac5d8be108022831c11d48e88a09	Pterula	Dominica	Fungus: Soil DNA
+485.	UDB05710535|87b2a75c1e1fe83d2e9f07eb0bc48d577b7c744a	Pterula	Dominica	Fungus: Soil DNA
+486.	UDB05710537|e6c53138afc8e2b76f6bec694e6054ef400c0937	Pterula	Dominica	Fungus: Soil DNA
+487.	UDB05710540|edf70c784733f74441b8cfd9c7ea9d815a43ba71	Pterula	Dominica	Fungus: Soil DNA
+488.	UDB05710543|f2b9002d204d4e4583a75d0bfefef53031a696cb	Pterula	Brazil	Fungus: Soil DNA
+489.	UDB05710546|95f6832f4fc5e86cd9ae504abdaef605cdebe2be	Pterula	Brazil	Fungus: Soil DNA
+490.	UDB05710549|259aa55a299ec2c571f326c8d48f0773a1055652	Pterula	Brazil	Fungus: Soil DNA
+491.	UDB05710552|1c7633244b55e5afae11c7913a169ed555c36842	Pterula	Brazil	Fungus: Soil DNA
+492.	UDB05710555|5455cd67d6d96039c22f3255da14082da155a203	Pterula	Brazil	Fungus: Soil DNA
+493.	UDB05710558|5eaec2f1086149eb69abaa78508d2dce07f036df	Pterula	Brazil	Fungus: Soil DNA
+494.	UDB05713718|a4f297bef2e0f98ee5602367a6dc49564c773c9d	Pterulicium	Mexico	Fungus: Soil DNA
+495.	UDB05713721|d19ec7c88455c3609964d523d46e1e226929c40b	Pterulicium	Mexico	Fungus: Soil DNA
+496.	UDB05712737|14205619ee076a9c658f44fa5d926d7f87a6ab1a	Pterula	Ghana	Fungus: Soil DNA
+497.	UDB05712740|21b71e6c7a863aaebac4992587f4491484ebd2f7	Pterula	Ghana	Fungus: Soil DNA
+498.	UDB05712743|6eee7c64d6dc7de49120851a595672d63ef3aa10	Pterula	Ghana	Fungus: Soil DNA
+499.	UDB05712746|7270bddcee78c8b418c0c4a09b050e9f4a26dbe5	Pterula	Ghana	Fungus: Soil DNA
+500.	UDB05712749|8e7f5131abc776dcbaffcc594a7b1cff73da0f7e	Pterula	Ghana	Fungus: Soil DNA
+501.	UDB05712752|a805b508d3818cb232c0c627761531c235bc639b	Pterula	Ghana	Fungus: Soil DNA
+502.	UDB05712755|c26b6dbff4c588610b4a3185a2e49cb59b898e63	Pterula	Ghana	Fungus: Soil DNA
+503.	UDB05712758|d6c2e72737e3249cca9f252f4fecfbfab4ae8480	Pterula	Ghana	Fungus: Soil DNA
+504.	UDB05712761|dedb6dd74e5eb5310d38d5ef18ad8addfd63a363	Pterula	Ghana	Fungus: Soil DNA
+505.	UDB05712764|f621980548e7e9434134ca4bafe6f1a61d30d030	Pterula	Ghana	Fungus: Soil DNA
+506.	UDB05712767|6a9e444b859034928a5d8b0fafe86e24ce672fc3	Pterula	Mexico	Fungus: Soil DNA
+507.	UDB05712771|0d2edb5b8a24de45a98959049e40aecfeb38e0d8	Pterula	Mexico	Fungus: Soil DNA
+508.	UDB05712774|10aacca8264c8c02be8082602c021fcf270f7ec3	Pterula	Mexico	Fungus: Soil DNA
+509.	UDB05712777|5d5f95f8ca92db7f20ee9a5d80d431ebf50199e1	Pterula	Mexico	Fungus: Soil DNA
+510.	UDB05712780|6e14c4c20473ae6bc6129538259532b6ee7870f0	Pterula	Mexico	Fungus: Soil DNA
+511.	UDB05712783|8aa81b1bfdab0113c96ad27fe79bb77121d63f3c	Pterula	Mexico	Fungus: Soil DNA
+512.	UDB05712785|8b38f20d7e3541b68ec7270c51556aab5a0ef1c3	Pterula	Mexico	Fungus: Soil DNA
+513.	UDB05712787|ca155c8acd347c7a7ebf52acbd892c2e8bd51984	Pterula	Mexico	Fungus: Soil DNA
+514.	UDB05712790|da0413a7b5abf26353b3ace98d8d8e9b6eee78c1	Pterula	Mexico	Fungus: Soil DNA
+515.	UDB05712793|ead7d0ae0a3bfabce006f9b4ca0fe8b3508caf52	Pterula	Mexico	Fungus: Soil DNA
+516.	UDB05712796|f67e3900a1c0e750747811072d7003a298a963c0	Pterula	Mexico	Fungus: Soil DNA
+517.	UDB05712799|2258286c7e922027c664ffab2cc0f15c41e35995	Pterula	Russian Federation	Fungus: Soil DNA
+518.	UDB05712802|35be2c671bff1b608b7727c30af1b0a089f64aef	Pterula	Russian Federation	Fungus: Soil DNA
+519.	UDB05712808|15c1a7ab2613252484d7d502c73cfd15a8669188	Pterula	Russian Federation	Fungus: Soil DNA
+520.	UDB05712810|1a09c94c5fa861fba8983ef5a0382a05c7b12056	Pterula	Russian Federation	Fungus: Soil DNA
+521.	UDB05712813|2732b38f18826967fd988dc5afe2e51197593772	Pterula	Russian Federation	Fungus: Soil DNA
+522.	UDB05712816|3cd87edea5fd39139ea1a6841c653328e2f7e89b	Pterula	Russian Federation	Fungus: Soil DNA
+523.	UDB05712819|540da6aa00fc8cfe24de56d1d351e589cefd605a	Pterula	Russian Federation	Fungus: Soil DNA
+524.	UDB05712822|55b0ec52eb92d0899c6042a7ba8018c0b58caf32	Pterula	Russian Federation	Fungus: Soil DNA
+525.	UDB05712827|624f6d4fb7409d0515acf308fd863a15a58a31c5	Pterula	Russian Federation	Fungus: Soil DNA
+526.	UDB05712830|7a34540709cd7d393117ef0e08601d30a8b82d2e	Pterula	Russian Federation	Fungus: Soil DNA
+527.	UDB05712833|973c9ee69efcdb2ab9edd2f2cca4f9e583e419cc	Pterula	Russian Federation	Fungus: Soil DNA
+528.	UDB05712836|99f3c490ad68663c7fe9730037dc80fe3bbd8063	Pterula	Russian Federation	Fungus: Soil DNA
+529.	UDB05712839|9dee71cf15d9e2d35ff8ba2985a07d2c466dc4d1	Pterula	Russian Federation	Fungus: Soil DNA
+530.	UDB05712842|a19b5806386e46cae59eb9e82e81bc6cb2119591	Pterula	Russian Federation	Fungus: Soil DNA
+531.	UDB05712844|c22eeaa8a12454dfc8133d688841cd49271cec8a	Pterula	Russian Federation	Fungus: Soil DNA
+532.	UDB05712845|d204bac1f8d9e4ef3175527e3dd577cdbb7acbc6	Pterula	Russian Federation	Fungus: Soil DNA
+533.	UDB05712848|d433e919cd9c38c9d59608d74dc6c26ecc8bf98f	Pterula	Russian Federation	Fungus: Soil DNA
+534.	UDB05712850|f1a2c7fb0391b12e697057a98b195e928e095650	Pterula	Russian Federation	Fungus: Soil DNA
+535.	UDB05712852|f9260b54701878f45c0017f23de7346537b8b759	Pterula	Russian Federation	Fungus: Soil DNA
+536.	UDB05712854|2d3481ab3b64655acb0f8a22e4bf0461aae7ee8c	Pterula	Tanzania, United Republic of	Fungus: Soil DNA
+537.	UDB05712856|102e7644845a0df1cd047e443fb56307b8f3a3ae	Pterula	Tanzania, United Republic of	Fungus: Soil DNA
+538.	UDB05712858|1c66220b44d10e6bd48dfc14220003a386d997b2	Pterula	Tanzania, United Republic of	Fungus: Soil DNA
+539.	UDB05712860|36086554491363c3126091fd8a033ab7054a73e7	Pterula	Tanzania, United Republic of	Fungus: Soil DNA
+540.	UDB05712862|89826da46ec80e792a2be5383cf44a0dd214bf05	Pterula	Tanzania, United Republic of	Fungus: Soil DNA
+541.	UDB05712864|9b32f6b4614d9156ef335401da7cc2fd7df251ae	Pterula	Tanzania, United Republic of	Fungus: Soil DNA
+542.	UDB05712866|9e493bfd8f65ef169594080ce961f23802781357	Pterula	Tanzania, United Republic of	Fungus: Soil DNA
+543.	UDB05712869|bdfe986c7b2c7e3fe493e725a482f553488c573b	Pterula	Tanzania, United Republic of	Fungus: Soil DNA
+544.	UDB05712871|6bfbcc09bd4b7534ee155d710b174f239f65cd77	Pterula	Guinea	Fungus: Soil DNA
+545.	UDB05712873|a277144d2f1623fe3555f85402e31e5e6a2b742f	Pterula	Guinea	Fungus: Soil DNA
+546.	UDB05712875|f2a2d9f2a2cb9205fd630bb238682c983f74d480	Pterula	Guinea	Fungus: Soil DNA
+547.	UDB05712878|f52d61ddfb2cdeccb8cde78a034d82a2c834316c	Pterula	Guinea	Fungus: Soil DNA
+548.	UDB05712881|c868d3584a3a9c6c98c7b57bc5f1b905b9115cac	Pterula	Mexico	Fungus: Soil DNA
+549.	UDB05712884|822c80a9512c731610f8b9f2f8395757c95bbf45	Pterula	Mexico	Fungus: Soil DNA
+550.	UDB05712887|a3285c7b3dbd9134fd8f0515efd35c19d8e651cc	Pterula	Mexico	Fungus: Soil DNA
+551.	UDB05712889|fcd186b608826c3deca92c03cc00ff847b5f98bb	Pterula	Mexico	Fungus: Soil DNA
+552.	UDB05712891|6e60f7ec13b83afa4d3179f5983d8a8fc835ad77	Pterula	Bolivia	Fungus: Soil DNA
+553.	UDB05712894|f9672caf1b8f4103958a3ae45a7498e3a88c00dd	Pterula	Bolivia	Fungus: Soil DNA
+554.	UDB05712896|014c74d8711787043b14a8721140855f338570b1	Pterula	Bolivia	Fungus: Soil DNA
+555.	UDB05712899|05011000b379835ab974fd6c4fc0961d988512b8	Pterula	Bolivia	Fungus: Soil DNA
+556.	UDB05712902|380dec7da4c69f0fdd2d10c840217f470ddeef7c	Pterula	Bolivia	Fungus: Soil DNA
+557.	UDB05712904|7cdf5d5f3a035d3d28b8dcbb9183fdc752d7fa2d	Pterula	Bolivia	Fungus: Soil DNA
+558.	UDB05712906|82a2258878af25beefc59f10d2e17e4bcc3cb184	Pterula	Bolivia	Fungus: Soil DNA
+559.	UDB05712908|87890a21a16995eefa971e3519e4d0a75d43b350	Pterula	Bolivia	Fungus: Soil DNA
+560.	UDB05712910|a38adcfe1ea7f334b382bcd971c2a596b0e5c442	Pterula	Bolivia	Fungus: Soil DNA
+561.	UDB05712912|b092015afad171f788522cabf41d8f3e18d65c1f	Pterula	Bolivia	Fungus: Soil DNA
+562.	UDB05712914|d691905eb779633e5332e01b6f900590bbbdfea0	Pterula	Bolivia	Fungus: Soil DNA
+563.	UDB05712916|d8eed4082bba0eb6ef28c5c32e818ddaf6493522	Pterula	Bolivia	Fungus: Soil DNA
+564.	UDB05712918|e56bc8d41d34977440d6830dde1c7264860539dc	Pterula	Bolivia	Fungus: Soil DNA
+565.	UDB05712920|f3c45a253d479ae18d4048c0e51b36668603db17	Pterula	Bolivia	Fungus: Soil DNA
+566.	UDB05712923|f9913f159c4713b260ef52ed5d5e81498036f7f4	Pterula	Bolivia	Fungus: Soil DNA
+567.	UDB05712927|0a3ebe0b32a3990236e8b47979af04ef92511f61	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+568.	UDB05712929|7db0132bce36e3d5c881d899f2c2174a1c548a48	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+569.	UDB05712932|1828b85e7c7b9b02752c7523e1a7fd7d06245b50	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+570.	UDB05712935|830fc0bd4a97bfe6b41de276671324f1d0c4e358	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+571.	UDB05712938|961c29235536f2432d0bc37f05500f3e9a58759c	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+572.	UDB05712941|abcba2f277c1d8eb6e7a45a1ef660e1fc01d5823	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+573.	UDB05712944|6579d73b6fcb13eaa81daff61be3c79d098dfd13	Pterulaceae	Malaysia	Fungus: Soil DNA
+574.	UDB05712947|524c474e4d5246cbc4808d1ea8b66acbfc92a0d7	Pterulaceae	Malaysia	Fungus: Soil DNA
+575.	UDB05712950|a7e34c1236f774eab21f4c74c14f1df15591e913	Pterulaceae	Malaysia	Fungus: Soil DNA
+576.	UDB05712953|ecf5904b61d04312a29e4ce4d9a754e2cb760f84	Pterulaceae	Viet Nam	Fungus: Soil DNA
+577.	UDB05712956|46b51dd31961dbaf872f3600b6a935e9211d54d3	Pterulaceae	Viet Nam	Fungus: Soil DNA
+578.	UDB05712959|a8f670bbcebd497a7885e9241da8c0d10b216be3	Pterulaceae	Viet Nam	Fungus: Soil DNA
+579.	UDB05712962|9cec2848b871a3c5190446edb57473a74e3832ff	Pterulaceae	China	Fungus: Soil DNA
+580.	UDB05712965|1898bb606a9dc380e1af4674cd780451a4ebb9bd	Pterulaceae	China	Fungus: Soil DNA
+581.	UDB05712968|193e65ef7371f93e4f850ee066365f728ea82cee	Pterulaceae	China	Fungus: Soil DNA
+582.	UDB05712971|27d3c1b6feccf63efae0c0dd59e91d8219740d89	Pterulaceae	China	Fungus: Soil DNA
+583.	UDB05712974|386ceb7aefa66ba790d695ba7eeb48b2574ee097	Pterulaceae	China	Fungus: Soil DNA
+584.	UDB05712978|40cbfd6605955f9dd7f152c7cb3feb057ff4b864	Pterulaceae	China	Fungus: Soil DNA
+585.	UDB05712981|59955c5e35bf7d9fa59093b1796ba62c593358a8	Pterulaceae	China	Fungus: Soil DNA
+586.	UDB05712984|747fa66af034a668c501c84f74d7e72a42c778c9	Pterulaceae	China	Fungus: Soil DNA
+587.	UDB05712988|7b2d5b3ba4e3393dd7d0b890f4dc7ff893192c48	Pterulaceae	China	Fungus: Soil DNA
+588.	UDB05712991|82f684c8bcd68d797933bcdfff176b7dd662aae6	Pterulaceae	China	Fungus: Soil DNA
+589.	UDB05712994|983f9bec9a7181694c5610c2be5829079ce0a2b5	Pterulaceae	China	Fungus: Soil DNA
+590.	UDB05712997|9c7ad0a537d38da0ca4b214578a16f9e1464c2bb	Pterulaceae	China	Fungus: Soil DNA
+591.	UDB05713000|b6f22e5bd35d7d4da1b317c0eb48efb99d5aa4f1	Pterulaceae	China	Fungus: Soil DNA
+592.	UDB05713003|f1c000d0be656e942f6b7d397b870318fe19c75d	Pterulaceae	China	Fungus: Soil DNA
+593.	UDB05713006|3ac48388d7c5086e4f02c5f81784658bfd43b124	Pterulaceae	Colombia	Fungus: Soil DNA
+594.	UDB05713009|219a22fe99d9e1795dcc5f1f57ebc2b541fbc0ef	Pterulaceae	Colombia	Fungus: Soil DNA
+595.	UDB05711743|ae922e36f880eb17413fe0cb08b2532c7dae886f	Pterula	Mexico	Fungus: Soil DNA
+596.	UDB05711746|696912f400f1dd5c53f70e6a293118cb66015cb4	Pterula	Mexico	Fungus: Soil DNA
+597.	UDB05711749|f2d8acd9eadcd3f14e92b0128c6a0ecd7af06534	Pterula	Mexico	Fungus: Soil DNA
+598.	UDB05711752|208a4eb1ee1013bd885a4ab0473b40321329369e	Pterula	Mexico	Fungus: Soil DNA
+599.	UDB05711754|62d1e6ba16db527453e8d0bd8cc7705f44ba48ec	Pterula	Mexico	Fungus: Soil DNA
+600.	UDB05711757|ae5b1f700a82430c59e1d8a5d4675c04fc8a6b7d	Pterula	Mexico	Fungus: Soil DNA
+601.	UDB05711760|0b5eed4c34a440c27a9765c1c32d359ecc3652e4	Pterula	Mexico	Fungus: Soil DNA
+602.	UDB05711763|11ff21bdea6e054bbe5bb38f5295bf172fdc6418	Pterula	Mexico	Fungus: Soil DNA
+603.	UDB05711766|1784ebe64ddea3b08a231491279a8a624a2b7878	Pterula	Mexico	Fungus: Soil DNA
+604.	UDB05711770|2704b53d787a252a8ecf603d647709393145f625	Pterula	Mexico	Fungus: Soil DNA
+605.	UDB05711773|2b4bd4db1e6e9bfdd574db267da35ae6be7f80c7	Pterula	Mexico	Fungus: Soil DNA
+606.	UDB05711775|3215c9a40eb0ca24c716861cb8d0fab0db9616c8	Pterula	Mexico	Fungus: Soil DNA
+607.	UDB05711778|3b461d73ca161d2e1eb2f5010ed799e9b20c37e1	Pterula	Mexico	Fungus: Soil DNA
+608.	UDB05711781|407e144d3a990826b43e95036ac0a4b1381e73d6	Pterula	Mexico	Fungus: Soil DNA
+609.	UDB05711784|448760451ce2f18d3b0c46a38ac457c2e7357b15	Pterula	Mexico	Fungus: Soil DNA
+610.	UDB05711787|4a15c4e543da162ce1162d115dccfda5cc3f718c	Pterula	Mexico	Fungus: Soil DNA
+611.	UDB05711790|59cbcf777f028dc7e7a269cd6fc8f40e33b6c175	Pterula	Mexico	Fungus: Soil DNA
+612.	UDB05711793|5a3db137304785a6bad460153f1ca1b4cee74ff6	Pterula	Mexico	Fungus: Soil DNA
+613.	UDB05711796|615faaf39a13ce3a3cc1a81c3d0d63fc025de4b7	Pterula	Mexico	Fungus: Soil DNA
+614.	UDB05711798|6257e77252c1dd84278c58d5372446c2d2640e36	Pterula	Mexico	Fungus: Soil DNA
+615.	UDB05711801|ae1b124dfdb7509913b0699da665df83a129c6b0	Pterula	Mexico	Fungus: Soil DNA
+616.	UDB05711804|af093d83970a769166c69beea1522b3226502845	Pterula	Mexico	Fungus: Soil DNA
+617.	UDB05711807|b42ec1af7cbf1877a93dbec97a3a4e7f93bf0bfd	Pterula	Mexico	Fungus: Soil DNA
+618.	UDB05711810|ba2b0c84e1ec0607e19c8ff8c075d3b9685f67e3	Pterula	Mexico	Fungus: Soil DNA
+619.	UDB05711812|c10f022bba397e83e09a81bed2e0ad4dbf875aac	Pterula	Mexico	Fungus: Soil DNA
+620.	UDB05711815|d061e50325c63d2ad8d277b822fa464e33c01402	Pterula	Mexico	Fungus: Soil DNA
+621.	UDB05711818|d557c829bfb0ad8c896417f906bb64e55590c2fc	Pterula	Mexico	Fungus: Soil DNA
+622.	UDB05711821|dc9b6e85175b3efc6ec63809ac9db7ebdd3bdf0a	Pterula	Mexico	Fungus: Soil DNA
+623.	UDB05711824|e5fcb3f3b6d17d73c96503c2089843b40da1eb70	Pterula	Mexico	Fungus: Soil DNA
+624.	UDB05711827|e710cc09a2d01d1273a2039f74ec0b488c5f601d	Pterula	Mexico	Fungus: Soil DNA
+625.	UDB05711830|ed91240f8a029d656f1ebb24cb40d93418f547ba	Pterula	Mexico	Fungus: Soil DNA
+626.	UDB05711833|fd7985ef8fca84b3968b1d37e115035e8e56ed37	Pterula	Mexico	Fungus: Soil DNA
+627.	UDB05711836|000b1753e9cc381adf1324c630bc7cf9f92af3e1	Pterula	Mexico	Fungus: Soil DNA
+628.	UDB05711837|010b9e5002b49c526384dbbb8a91c241b8165264	Pterula	Mexico	Fungus: Soil DNA
+629.	UDB05711840|04b9ae6cf81011030dfc04c27663520a40c7d6dd	Pterula	Mexico	Fungus: Soil DNA
+630.	UDB05711843|13d22b6670f2d1e5acf2dd78cab70928fbd384d5	Pterula	Mexico	Fungus: Soil DNA
+631.	UDB05711847|23377d39c6d9e73d73508105db2902d6df86c2b9	Pterula	Mexico	Fungus: Soil DNA
+632.	UDB05711850|3c457a734400e8a0d95e1803a0de96201879c148	Pterula	Mexico	Fungus: Soil DNA
+633.	UDB05711853|5aa41f587bbe92bd9301c2049c7fae3a897716ff	Pterula	Mexico	Fungus: Soil DNA
+634.	UDB05711856|5d03212c16531fc9c7450b7546d521fcdc36ca66	Pterula	Mexico	Fungus: Soil DNA
+635.	UDB05711861|74b24cdbf397439018886baad091f3639041c4f2	Pterula	Mexico	Fungus: Soil DNA
+636.	UDB05711863|811bbbfbc0c33c7d2f0b3aa2b5f554f5f4a0a881	Pterula	Mexico	Fungus: Soil DNA
+637.	UDB05711865|81756233fb3dbe42c2a6e2811d1636e746f9e06e	Pterula	Mexico	Fungus: Soil DNA
+638.	UDB05711866|82de221b0ea66042411f65e26171cece23ec1691	Pterula	Mexico	Fungus: Soil DNA
+639.	UDB05711868|85eb6541c2e1eb1f13d0bb06d9525f3fc06a6940	Pterula	Mexico	Fungus: Soil DNA
+640.	UDB05711870|9bd1545b109e8f97f647f553ad081fd204b63342	Pterula	Mexico	Fungus: Soil DNA
+641.	UDB05711872|9fab630fb073bef8dda0bb1d79cae94a7a61b9e2	Pterula	Mexico	Fungus: Soil DNA
+642.	UDB05711874|a377204b42866ac298672497a156e8382d98899d	Pterula	Mexico	Fungus: Soil DNA
+643.	UDB05711876|ade2873ba66468c0033285cf210c5655595e1a9e	Pterula	Mexico	Fungus: Soil DNA
+644.	UDB05711878|b75cab223ec4a1dd1ee49006e091be10365572df	Pterula	Mexico	Fungus: Soil DNA
+645.	UDB05711879|c86d3698e035397c4d55a0b02a5d5daef9b13b6c	Pterula	Mexico	Fungus: Soil DNA
+646.	UDB05711881|c9b5adb74582addd8ed775b827443b80371eab3c	Pterula	Mexico	Fungus: Soil DNA
+647.	UDB05711883|d01709584d778e1c2a6cf838890872e125d6f0b4	Pterula	Mexico	Fungus: Soil DNA
+648.	UDB05711885|e2882c9cffc19cfef85f2db8233ade6ca77a3409	Pterula	Mexico	Fungus: Soil DNA
+649.	UDB05711887|ef74ccfefa3b5d448c0b4f7c353a9e1bbafb6fe5	Pterula	Mexico	Fungus: Soil DNA
+650.	UDB05711889|fa963b951710f66d9b6d63453994272b77f36270	Pterula	Mexico	Fungus: Soil DNA
+651.	UDB05711890|fb9a665a11d91c01ccadb365d2eb670aed44cc07	Pterula	Mexico	Fungus: Soil DNA
+652.	UDB05711892|99c91c8bf6ddf0fd81c5e70079a3574fb90d6a8f	Pterula	Cameroon	Fungus: Soil DNA
+653.	UDB05711895|d7987e6381cb2f9f7b56802130f152df30832e12	Pterula	Cameroon	Fungus: Soil DNA
+654.	UDB05711898|07b1f560ba983f81a2d5ad3ed09a3c8cc8873ddc	Pterula	Cameroon	Fungus: Soil DNA
+655.	UDB05711901|0ca4626fd30372329ea0664f5f75b2ee3a19a3fe	Pterula	Cameroon	Fungus: Soil DNA
+656.	UDB05711904|21ec696b35a33884a81decc5157a636768ed49cf	Pterula	Cameroon	Fungus: Soil DNA
+657.	UDB05711907|26d4552e1c64caf94b298acfb0eb2009a79c11c1	Pterula	Cameroon	Fungus: Soil DNA
+658.	UDB05711910|29b25454c821ad91d35a1fc1dc1dd1ab038b5dbf	Pterula	Cameroon	Fungus: Soil DNA
+659.	UDB05711913|40c7737d15059c8cda1a4786e477b1ba5c008e99	Pterula	Cameroon	Fungus: Soil DNA
+660.	UDB05711916|580c23e82820e0c68c0e8d8489328214b4edb4d6	Pterula	Cameroon	Fungus: Soil DNA
+661.	UDB05711919|5ef086b2a0271d9682300eb9774b9c75f828a0df	Pterula	Cameroon	Fungus: Soil DNA
+662.	UDB05711922|68308684e3982ea09d488aea9dc7e5da422e4150	Pterula	Cameroon	Fungus: Soil DNA
+663.	UDB05711923|870e317ff6b74775d9651eadac8cbd91b71220fe	Pterula	Cameroon	Fungus: Soil DNA
+664.	UDB05711926|a47e4235fdd64c5861096683ec089e618ad574ff	Pterula	Cameroon	Fungus: Soil DNA
+665.	UDB05711930|a73f6f35abf95e686adc820561f76598477ca187	Pterula	Cameroon	Fungus: Soil DNA
+666.	UDB05711933|b9e880c7025687a0d9cb9241f430c55da1450f55	Pterula	Cameroon	Fungus: Soil DNA
+667.	UDB05711936|d724dcaf8147a629a96601f5500fc6c5f467d90a	Pterula	Cameroon	Fungus: Soil DNA
+668.	UDB05711939|e584d6b3bf1fae09150ada9e93762c0af9d48b6e	Pterula	Cameroon	Fungus: Soil DNA
+669.	UDB05711941|fe7bf365c88adf86f30f36f1976484202e5ceff2	Pterula	Cameroon	Fungus: Soil DNA
+670.	UDB05711943|b90f5a5024bff3c6c4c1b4a5ea34339b4e49417f	Pterula	Thailand	Fungus: Soil DNA
+671.	UDB05711944|61af3917ddd180f39254f53ff792479f9dfbbc9b	Pterula	Thailand	Fungus: Soil DNA
+672.	UDB05711946|3bbb385fc7d7b97b70b9a51aa95ad324e78bb75d	Pterula	Thailand	Fungus: Soil DNA
+673.	UDB05711949|c566a780bb1a5ed454812d58c912d4e3082bec79	Pterula	Thailand	Fungus: Soil DNA
+674.	UDB05711951|0402665729c22c2a94ca22458ba9fbb57ec13850	Pterula	Thailand	Fungus: Soil DNA
+675.	UDB05711953|09e90a1d6dc09512e53bcbe4efec368a719ee77b	Pterula	Thailand	Fungus: Soil DNA
+676.	UDB05711955|12166f3c80d3fbd8462d5e7f3952b4f237fba890	Pterula	Thailand	Fungus: Soil DNA
+677.	UDB05711957|16bc826ae1beb8d625409a308d8c189f60a8dfe9	Pterula	Thailand	Fungus: Soil DNA
+678.	UDB05711960|172b5f1adcb193cd190ad005dbf85a44f97e2c1f	Pterula	Thailand	Fungus: Soil DNA
+679.	UDB05711963|1bba6cdef63ccc779d0ff734048219d5ae54f155	Pterula	Thailand	Fungus: Soil DNA
+680.	UDB05711965|219bbf5baa4cdbcff1226b21219ca642b20fac72	Pterula	Thailand	Fungus: Soil DNA
+681.	UDB05711968|22625466d6672a58739660c7b14addd8b7671fbb	Pterula	Thailand	Fungus: Soil DNA
+682.	UDB05711971|245dd20d1e722eb970fdceb7415f9ebbf71bac1e	Pterula	Thailand	Fungus: Soil DNA
+683.	UDB05711974|28dca5c1053ff252a669b8d1c3a37014588db9af	Pterula	Thailand	Fungus: Soil DNA
+684.	UDB05711977|2bb9745b73381646bc381f89144ac2de2e872634	Pterula	Thailand	Fungus: Soil DNA
+685.	UDB05711980|38eb45ceb3b8fc04cd4a034f1e6444d5de7809c6	Pterula	Thailand	Fungus: Soil DNA
+686.	UDB05711983|3c87dee60c47b99247d9f589d1ae767400ab744a	Pterula	Thailand	Fungus: Soil DNA
+687.	UDB05711986|3d9990c72777560deb10c5c8a559edcb688c04dc	Pterula	Thailand	Fungus: Soil DNA
+688.	UDB05711989|421514171d3bf0639a83499d728c25fd5dc52894	Pterula	Thailand	Fungus: Soil DNA
+689.	UDB05711992|4c0dfff42d7d36a86617d1e3a0d3240d093f1835	Pterula	Thailand	Fungus: Soil DNA
+690.	UDB05711997|53d8421d7659aec90a93b28bee91eb25d4bdba9f	Pterula	Thailand	Fungus: Soil DNA
+691.	UDB05711999|5746511083e7d2c82a123c9bb7396a2dd6458d37	Pterula	Thailand	Fungus: Soil DNA
+692.	UDB05712002|60b612bff1aa678391d859dfb5f5194d7a342232	Pterula	Thailand	Fungus: Soil DNA
+693.	UDB05712005|61b5b3c6d1dc65e725e157a3d830bad9ba1ba6fc	Pterula	Thailand	Fungus: Soil DNA
+694.	UDB05713211|220fd1c001d2688a232f46f82adf8bdd11d90230	Pterulaceae	Colombia	Fungus: Soil DNA
+695.	UDB05713214|5ce338b6ac4588349f5380d1dbc22292b755d81a	Pterulaceae	Colombia	Fungus: Soil DNA
+696.	UDB05713217|ae2b4efb27333d78cd81f7febd95271bfa2b8071	Pterulaceae	Colombia	Fungus: Soil DNA
+697.	UDB05713220|55d098098716e673e2ae6f565c39a9ca28e32bcd	Pterulaceae	Brazil	Fungus: Soil DNA
+698.	UDB05713223|0153cabe861e37e48e1e12f7aeb9919b38360406	Pterulaceae	Brazil	Fungus: Soil DNA
+699.	UDB05713226|401a790c3ed8488fe48db22bb75c5d55ce2a8c53	Pterulaceae	Brazil	Fungus: Soil DNA
+700.	UDB05713229|5947477711ef1964ee3d7e7398faa96dd191cf1e	Pterulaceae	Brazil	Fungus: Soil DNA
+701.	UDB05713232|ccbe18102599c9a416ab64e157008d70a111737b	Pterulaceae	Brazil	Fungus: Soil DNA
+702.	UDB05713235|f343b2138eaae32dd4cb8cf890039f3ebc6c82ac	Pterulaceae	Brazil	Fungus: Soil DNA
+703.	UDB05713238|f69f11741f828f741f11a042307bdcfccc0d74f1	Pterulaceae	Brazil	Fungus: Soil DNA
+704.	UDB05713243|8e36ce9197c1c60c5871c570d42939d0bf837827	Pterulaceae	Brazil	Fungus: Soil DNA
+705.	UDB05713246|92f32ec31a8c49f48b940d0bce8f58a68e3e1a64	Pterulaceae	Brazil	Fungus: Soil DNA
+706.	UDB05713249|e6be14866ba3002d52a13335ed05805fae0139a0	Pterulaceae	Brazil	Fungus: Soil DNA
+707.	UDB05713252|1f79440ebb2ea584d194a1c3fe2ebc813fe4a4b7	Pterulaceae	Brazil	Fungus: Soil DNA
+708.	UDB05713255|4e60eed6ed618fe10486c3af8221745a930c2128	Pterulaceae	Brazil	Fungus: Soil DNA
+709.	UDB05713258|507b9a313e2e774292946e64277302127abcfc4a	Pterulaceae	Brazil	Fungus: Soil DNA
+710.	UDB05713261|6699a994497d46a037b5da6ef9b7f4432ba73ab5	Pterulaceae	Brazil	Fungus: Soil DNA
+711.	UDB05713265|85417df785f2d02850c5c1cd74f3d73aebbcdf95	Pterulaceae	Brazil	Fungus: Soil DNA
+712.	UDB05713268|86f98e9afcc8d422b67650db829903be11c5cc75	Pterulaceae	Brazil	Fungus: Soil DNA
+713.	UDB05713271|94d3a418f911529dd13e81295f72f628a277149c	Pterulaceae	Brazil	Fungus: Soil DNA
+714.	UDB05713274|e5116df846e37a94bc0c6be6c2c9f2614fdf669d	Pterulaceae	Brazil	Fungus: Soil DNA
+715.	UDB05713276|ed334d4a6609822e606a77e0a97a54ab82f959f3	Pterulaceae	Brazil	Fungus: Soil DNA
+716.	UDB05713280|e1fb6cc39be8e8b06f199a10b053b6956dcf02c1	Pterulaceae	Mexico	Fungus: Soil DNA
+717.	UDB05713283|01908cc4c4168e979985b8d6141ae5776fa81eee	Pterulaceae	Mexico	Fungus: Soil DNA
+718.	UDB05713286|63502a7ed5a3c8cb3b4cdbe12bd53e3162053c06	Pterulaceae	Mexico	Fungus: Soil DNA
+719.	UDB05713289|fe311f5bc2c08b87d13f63bd991e9020c8beaa81	Pterulaceae	Guatemala	Fungus: Soil DNA
+720.	UDB05713292|6a8cb9f32f1d48396b12ab6ddcdc9d878fdf2016	Pterulaceae	Guatemala	Fungus: Soil DNA
+721.	UDB05713295|902196679a8dc11fd1bc4c35b9298e4e34bfc340	Pterulaceae	Guatemala	Fungus: Soil DNA
+722.	UDB05713298|f2ec314b5218a7a2b148e2ab1e5b4001ad9611f3	Pterulaceae	Guatemala	Fungus: Soil DNA
+723.	UDB05713301|034abcd14832a3d05f7c893a490456f5e5fb7940	Pterulaceae	Guatemala	Fungus: Soil DNA
+724.	UDB05713304|0c2c7a86f167e621920abf17c121aae2fb5fa65e	Pterulaceae	Guatemala	Fungus: Soil DNA
+725.	UDB05713307|14573c1c8b75394860472f12be763da0a21cd841	Pterulaceae	Guatemala	Fungus: Soil DNA
+726.	UDB05713308|15ba56c7e59544d21040176622bcfdfef30e2991	Pterulaceae	Guatemala	Fungus: Soil DNA
+727.	UDB05713311|188faf71b9ca5bd2e816781a8e475accb55a7c19	Pterulaceae	Guatemala	Fungus: Soil DNA
+728.	UDB05713314|2ea87e871523ddcf493782cd149475e8960c57fa	Pterulaceae	Guatemala	Fungus: Soil DNA
+729.	UDB05713317|2fed41ea3cd3f9502b1e5f818c1df88b555bc862	Pterulaceae	Guatemala	Fungus: Soil DNA
+730.	UDB05713320|3c6f571ae362f47ad81c3d22eb6ed8edc86ce705	Pterulaceae	Guatemala	Fungus: Soil DNA
+731.	UDB05713323|3d14a8c4a32e6f0666f421a4c6130ef1c45e454e	Pterulaceae	Guatemala	Fungus: Soil DNA
+732.	UDB05713326|426df3ac19f341f4f74572c7454201954178c727	Pterulaceae	Guatemala	Fungus: Soil DNA
+733.	UDB05713329|4591be2b4f49f0137e2b0a65c97e4bbea8cb9709	Pterulaceae	Guatemala	Fungus: Soil DNA
+734.	UDB05713332|567f9f7e7cd25c17c8ebfca8422c955564416328	Pterulaceae	Guatemala	Fungus: Soil DNA
+735.	UDB05713335|634c4fa40b04281ba9d171eb271900a5eb85fd57	Pterulaceae	Guatemala	Fungus: Soil DNA
+736.	UDB05713338|65e82bbec3be36c8126a410da2119bddbc04bf94	Pterulaceae	Guatemala	Fungus: Soil DNA
+737.	UDB05713341|69af5c0609281c9e734bae0ee42160f3c38f50f2	Pterulaceae	Guatemala	Fungus: Soil DNA
+738.	UDB05713344|6c2c4e106bc3af1c879d5a7d9904fa6f0a078709	Pterulaceae	Guatemala	Fungus: Soil DNA
+739.	UDB05713347|7caa09a452143a67f22cf9f2ea7489d6f3b9869f	Pterulaceae	Guatemala	Fungus: Soil DNA
+740.	UDB05713350|7f60342361317e53e52fafc59ed15ee5130faff6	Pterulaceae	Guatemala	Fungus: Soil DNA
+741.	UDB05713353|824be61598e66dc1e35d14bb879146dbc3c5dcbf	Pterulaceae	Guatemala	Fungus: Soil DNA
+742.	UDB05713356|83d51fb1cff03d5dddb7ce7fe333e4adf3d85b8c	Pterulaceae	Guatemala	Fungus: Soil DNA
+743.	UDB05713359|8aa63a8f8a0222272ca35477b1190eaa0cbbfda0	Pterulaceae	Guatemala	Fungus: Soil DNA
+744.	UDB05713363|8ed975c1cf7fb372812d5719cec96f2f6d7c9eef	Pterulaceae	Guatemala	Fungus: Soil DNA
+745.	UDB05713365|8f6edc66c1f538cde50f2821bb763821d4e99cc8	Pterulaceae	Guatemala	Fungus: Soil DNA
+746.	UDB05713367|a32b806e1bc55ea2decc6e0d0ca0bc07af68d574	Pterulaceae	Guatemala	Fungus: Soil DNA
+747.	UDB05713369|b61acb3f7b01fb39b9d7a8b45934b6b9916ed0ae	Pterulaceae	Guatemala	Fungus: Soil DNA
+748.	UDB05713371|c400640a7cb42021ca303dfaa6dcc4e97280b626	Pterulaceae	Guatemala	Fungus: Soil DNA
+749.	UDB05713373|c7490ceadf0cac1f1b6fd012251a177bb7ce079d	Pterulaceae	Guatemala	Fungus: Soil DNA
+750.	UDB05713375|d205da0567342a39fe75adfc5af7ebd30049e880	Pterulaceae	Guatemala	Fungus: Soil DNA
+751.	UDB05713377|edb890fa3f6ae38b5104ae192ea5293c84e72ff0	Pterulaceae	Guatemala	Fungus: Soil DNA
+752.	UDB05713379|f2578c8b43051dee1c046c4a69404a97ece58896	Pterulaceae	Guatemala	Fungus: Soil DNA
+753.	UDB05713382|f943f31d17a166e91e401731f97554dbbe08620e	Pterulaceae	Guatemala	Fungus: Soil DNA
+754.	UDB05713385|37ffcb003679c56682fcebbfb7b4ffddb0363979	Pterulaceae	Mexico	Fungus: Soil DNA
+755.	UDB05713388|6769727c85c624e1e5a536776a016316b14e3852	Pterulaceae	Mexico	Fungus: Soil DNA
+756.	UDB05713390|b40853fe6127fd18b0f4e97159b4d77a86bd4bfb	Pterulaceae	Mexico	Fungus: Soil DNA
+757.	UDB05713393|958c7f0e6deec17eef6424a15b446d72f7ae1de4	Pterulaceae	Mexico	Fungus: Soil DNA
+758.	UDB05713396|c7e389f9b7341c5619b693cebcd57cc88c6fa709	Pterulaceae	Mexico	Fungus: Soil DNA
+759.	UDB05713399|d4d15534bbd283fc850b407ab98b9cddbc96dd82	Pterulaceae	Mexico	Fungus: Soil DNA
+760.	UDB05713401|dc3b71f18ba1085caf671425935998d274afb677	Pterulaceae	Mexico	Fungus: Soil DNA
+761.	UDB05713403|eb807745ca602a885a52e1173ac8c80c7fb5cdc1	Pterulaceae	Mexico	Fungus: Soil DNA
+762.	UDB05713405|4b3ae5c5c376dc7f33721407b04c1c6c91a6af13	Pterulaceae	Cameroon	Fungus: Soil DNA
+763.	UDB05713407|5d3b496c8016d192ab63c42b9e6c5beb76eb7684	Pterulaceae	Cameroon	Fungus: Soil DNA
+764.	UDB05713409|f71b4aa90218e03cfa14bbe1a175407e0bd088fd	Pterulaceae	Cameroon	Fungus: Soil DNA
+765.	UDB05713411|053eb5c6398d2eca1dcb86309e06b929addec2e6	Pterulaceae	Cameroon	Fungus: Soil DNA
+766.	UDB05713412|46bddd3a748221d59b9e7302117b256176a3a2d3	Pterulaceae	Cameroon	Fungus: Soil DNA
+767.	UDB05713414|49c54cc169a54c9943df31fb84362c07734e1ae3	Pterulaceae	Cameroon	Fungus: Soil DNA
+768.	UDB05713416|c1887e93d5ba2b5cf1ce6c0a9b5941492b322c02	Pterulaceae	Cameroon	Fungus: Soil DNA
+769.	UDB05713418|e187f021bfa896a0d3054858026af498642d84e4	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+770.	UDB05713420|7cef5a40df966d0561a7226d31f928878829be22	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+771.	UDB05713421|e05df9b1d01822a671f1eefed2da3ae8fc6ca7ca	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+772.	UDB05713422|ed27d6035add19c0d9294762bb0b33dc776b6db1	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+773.	UDB05713423|21464510c4b1775b9b4011b87027c5e54757b238	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+774.	UDB05713425|2fe39d4373a0451be5b63d1205bfcdc58dedf1fe	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+775.	UDB05713427|4234f931af43cfc0fed92fdfcc6066182cae946c	Pterulaceae	Papua New Guinea	Fungus: Soil DNA
+776.	UDB05713429|81edc44c12ea3b26de5b9d87193e55583b8f7987	Pterulaceae	Mexico	Fungus: Soil DNA
+777.	UDB05713431|bfa41b5dbd1dcb20bf50ba993eebdb84cfdc5ff5	Pterulaceae	Mexico	Fungus: Soil DNA
+778.	UDB05713434|1786e7321e499c5448c6c1947cb4a62bf2d2e0ce	Pterulaceae	Tanzania, United Republic of	Fungus: Soil DNA
+779.	UDB05713437|2a4c3c3a8a5c9ddbcd598bd16a645914b8ed9e61	Pterulaceae	Tanzania, United Republic of	Fungus: Soil DNA
+780.	UDB05713440|7f31ce8015eb936403e1b8be54a53a7110d1f298	Pterulaceae	Tanzania, United Republic of	Fungus: Soil DNA
+781.	UDB05713443|b1265ecdcd6c521c007641f531934d02c1ad7633	Pterulaceae	Tanzania, United Republic of	Fungus: Soil DNA
+782.	UDB05713446|fed53bfef2b88e9818dbcaa7d959ecd9f3c972ac	Pterulaceae	Tanzania, United Republic of	Fungus: Soil DNA
+783.	UDB05713449|2e1ee4c1f517cb094aeaf0fea421cfc3c87d1a0b	Pterulaceae	Mexico	Fungus: Soil DNA
+784.	UDB05713452|0c74b7715d75a60fdafddfc9cc043cb14a6bf1ec	Pterulaceae	Mexico	Fungus: Soil DNA
+785.	UDB05713455|e205a4f0b01bf002bf73b2453e799ebdd3d2b908	Pterulicium	Colombia	Fungus: Soil DNA
+786.	UDB05713458|ecc6dba0ae124da459e0887c3d01a95d84994573	Pterulicium	Colombia	Fungus: Soil DNA
+787.	UDB05713461|ee7783cec2e5df1404c6d0b00aa7132dadd54122	Pterulicium	Colombia	Fungus: Soil DNA
+788.	UDB05713464|1190cd9a8e30756b8d78f38a5e1d7bd50c4bef5b	Pterulicium	Puerto Rico	Fungus: Soil DNA
+789.	UDB05713467|6c8b0cb1146a67f793e5e12521b486432fb046ea	Pterulicium	Puerto Rico	Fungus: Soil DNA
+790.	UDB05713470|c9b1df9fffd1debbe1216d2ac39c0e7ab7ed7bc5	Pterulicium	Puerto Rico	Fungus: Soil DNA
+791.	UDB05713473|f01319e0b13ffb48203fa1b81cb1d80e79efe0fe	Pterulicium	Puerto Rico	Fungus: Soil DNA
+792.	UDB05713476|31654245f94e7cce78817c190b6a445d4346d748	Pterulicium	Mexico	Fungus: Soil DNA
+793.	UDB05712243|64f5a7f7fd810c74e5880bafa57c5946243635aa	Pterula	Thailand	Fungus: Soil DNA
+794.	UDB05712246|6514e9af1560b21cf83f08255c5a5b2025d79463	Pterula	Thailand	Fungus: Soil DNA
+795.	UDB05712249|66bfe21da9f734214ecdc70e278707fa5e714279	Pterula	Thailand	Fungus: Soil DNA
+796.	UDB05712252|693b9c59db89e20b5a6c94feda063fbef66b9b1d	Pterula	Thailand	Fungus: Soil DNA
+797.	UDB05712255|6bf895a5ecb36a35f7040c62fa91b1fe6762a44b	Pterula	Thailand	Fungus: Soil DNA
+798.	UDB05712259|7388d8df09b5140860bff38f3869ef1031c91472	Pterula	Thailand	Fungus: Soil DNA
+799.	UDB05712262|8044d5ed17082e62973b6e3df6cd9039d0f22d47	Pterula	Thailand	Fungus: Soil DNA
+800.	UDB05712266|8db259c6d2dd4eae55b2134bf2e33b6384c14cd5	Pterula	Thailand	Fungus: Soil DNA
+801.	UDB05712269|8e5afcbd3228e854ac2e76622188784003a10745	Pterula	Thailand	Fungus: Soil DNA
+802.	UDB05712272|8f50f7e3e368f5b4ad41f39f8476f953772479b6	Pterula	Thailand	Fungus: Soil DNA
+803.	UDB05712275|933ddc890470cf4012142604aee0697b8eb144e1	Pterula	Thailand	Fungus: Soil DNA
+804.	UDB05712279|9fffbe409aed4b51ee14c83ea40fb2367c6f9cbf	Pterula	Thailand	Fungus: Soil DNA
+805.	UDB05712282|a2294ffa04d4e96db92cc4832403e492af11da4a	Pterula	Thailand	Fungus: Soil DNA
+806.	UDB05712285|acd188c07a66895ed663849bd1e8b7ea31bd7977	Pterula	Thailand	Fungus: Soil DNA
+807.	UDB05712288|b028b5c4e161ea0b8432f31f97e3f5722b9b343a	Pterula	Thailand	Fungus: Soil DNA
+808.	UDB05712291|b67ad482267eab02f3bf998d1c6f36b6658f7b37	Pterula	Thailand	Fungus: Soil DNA
+809.	UDB05712294|bde1f4ec13d6ec4b5a9f01fbddbce914e6b3816b	Pterula	Thailand	Fungus: Soil DNA
+810.	UDB05712299|c0c664432c876560d41296e5827f316451424823	Pterula	Thailand	Fungus: Soil DNA
+811.	UDB05712302|c1ed03b971e24d76185cdb7d0b05cf74771134af	Pterula	Thailand	Fungus: Soil DNA
+812.	UDB05712305|d0e8398ef6971e666139c6026605b31afc1726bb	Pterula	Thailand	Fungus: Soil DNA
+813.	UDB05712308|d21c593dec0886af25cb2c869bed136ed4e028b8	Pterula	Thailand	Fungus: Soil DNA
+814.	UDB05712311|dc2fd0dca126afd560365835589b6814f80c719b	Pterula	Thailand	Fungus: Soil DNA
+815.	UDB05712314|e08702e64d87eceff251c3fab458151b3291f42d	Pterula	Thailand	Fungus: Soil DNA
+816.	UDB05712317|e521d69b7ede81f26e9f67860e982b019b247c62	Pterula	Thailand	Fungus: Soil DNA
+817.	UDB05712320|e8dac28f4cf8004b2d1f33fad5addcba5a5b6b2a	Pterula	Thailand	Fungus: Soil DNA
+818.	UDB05712323|f15ba3a266ca3be4cc895295613ce26bb8b1c708	Pterula	Thailand	Fungus: Soil DNA
+819.	UDB05712328|fb089b285d1a960a90b4c40963c811a92b263c1f	Pterula	Thailand	Fungus: Soil DNA
+820.	UDB05712331|fb2a06deb83d88f38df8fbf0e345084807fa7cf9	Pterula	Thailand	Fungus: Soil DNA
+821.	UDB05712334|ff79ebc0037736728b582677a8fa260f54dfd05f	Pterula	Thailand	Fungus: Soil DNA
+822.	UDB05712337|39b713c270d5f4efeb01db74e72ba25fa81e5b3b	Pterula	China	Fungus: Soil DNA
+823.	UDB05712340|4086e8649d033569a7bd58aad926c4d77bc23a6c	Pterula	China	Fungus: Soil DNA
+824.	UDB05712344|f7126b7f1702efe61eb46f1febd8afbf4315756e	Pterula	China	Fungus: Soil DNA
+825.	UDB05712347|2636c8807e38ec9b2422bebde7663343d017d652	Pterula	China	Fungus: Soil DNA
+826.	UDB05712350|238add0707e74c11545df4abfc1f3ba659f35547	Pterula	China	Fungus: Soil DNA
+827.	UDB05712353|00891fe67ba85be90e83b20f294fceef9e84ca3f	Pterula	China	Fungus: Soil DNA
+828.	UDB05712356|03521abc95e7f3750d0f8da8afcbd80cc2de2a4e	Pterula	China	Fungus: Soil DNA
+829.	UDB05712359|045777d5417011ed6e8bde3196a21eabf2137e33	Pterula	China	Fungus: Soil DNA
+830.	UDB05712362|0d4e6353c6ba207fd091f33c9e57e640e590f264	Pterula	China	Fungus: Soil DNA
+831.	UDB05712365|16710b6c9a8e6458797684ef0b0b8872eb059374	Pterula	China	Fungus: Soil DNA
+832.	UDB05712368|1a6fff1fc9efdd33dd1e24a11b0b664e41e25196	Pterula	China	Fungus: Soil DNA
+833.	UDB05712372|1caa1bc974ebbcc33a6ba6ebe708591970dee898	Pterula	China	Fungus: Soil DNA
+834.	UDB05712375|1d57cfca12f31ce530c4c1bd56994db7fe2d107b	Pterula	China	Fungus: Soil DNA
+835.	UDB05712378|20cbb5a428f0a30ca958848e55bdbe0e1b55658a	Pterula	China	Fungus: Soil DNA
+836.	UDB05712381|294a84efcbddff5ee1c558b70ba07cae5d1441dc	Pterula	China	Fungus: Soil DNA
+837.	UDB05712384|2fba5b115f49d97af3de07c69fcf3316e8792949	Pterula	China	Fungus: Soil DNA
+838.	UDB05712387|376a2eb33470f8504eb9f936c5b33d85390a75ba	Pterula	China	Fungus: Soil DNA
+839.	UDB05712390|3c6fa9c199027954d0edba4270ceeb70a5dde8a8	Pterula	China	Fungus: Soil DNA
+840.	UDB05712393|4330e054346c6d2611b60478cf60f207c30c184d	Pterula	China	Fungus: Soil DNA
+841.	UDB05712395|4b55ac7d8b35f82c9377be938a10edfadf194590	Pterula	China	Fungus: Soil DNA
+842.	UDB05712397|558b08846eaa2f6e9965c6d290c5be9043e33d7f	Pterula	China	Fungus: Soil DNA
+843.	UDB05712399|5fcd875584563bea15d77b4b142b67c89473aea7	Pterula	China	Fungus: Soil DNA
+844.	UDB05712400|626ccb5e39b565bdc0fac59ee5e014807d029a51	Pterula	China	Fungus: Soil DNA
+845.	UDB05712401|62f3da68abb3b37c7d3729d286ba47097d43e4ff	Pterula	China	Fungus: Soil DNA
+846.	UDB05712403|64a22007403a201589d7a11ec09809ae806552c7	Pterula	China	Fungus: Soil DNA
+847.	UDB05712405|6a82ed599db5b3ef4827f243197341fc99e904f3	Pterula	China	Fungus: Soil DNA
+848.	UDB05712406|6b6419aa7cdfd5c3999ad4bfd3db7068cd1839e2	Pterula	China	Fungus: Soil DNA
+849.	UDB05712408|6ff2e9dd81f3d062aa302f3aee0354a0a40db8cd	Pterula	China	Fungus: Soil DNA
+850.	UDB05712410|704b4998ce06d21c2877635c94df0ebd234689a1	Pterula	China	Fungus: Soil DNA
+851.	UDB05712412|74752d74f5eed482ab4a51924650a6331dab7319	Pterula	China	Fungus: Soil DNA
+852.	UDB05712414|7611b2ccb6ecb50c29b194048f02ee4dd8d57a35	Pterula	China	Fungus: Soil DNA
+853.	UDB05712416|78dfb0edd874c559800edace9c810c8c7b12d04a	Pterula	China	Fungus: Soil DNA
+854.	UDB05712419|7b466b27a2ed814ab0d08e8105b40a0c408da968	Pterula	China	Fungus: Soil DNA
+855.	UDB05712421|7bc3a6cc382039fc0249afab088533a92a24a57f	Pterula	China	Fungus: Soil DNA
+856.	UDB05712422|7f2ead82005172bc15854a9811b092d9e328e3ba	Pterula	China	Fungus: Soil DNA
+857.	UDB05712423|834bb05553450d381cd3ca70f23b32563e377bc8	Pterula	China	Fungus: Soil DNA
+858.	UDB05712426|844cfd0fa2f3a6f165f21277585c3fc04a591490	Pterula	China	Fungus: Soil DNA
+859.	UDB05712427|8b4a1e6d33067c6d6e4f1effdee565c156aa951d	Pterula	China	Fungus: Soil DNA
+860.	UDB05712429|96c37feb16491eb6b8251e0ccf5a9d9afbf6d33a	Pterula	China	Fungus: Soil DNA
+861.	UDB05712432|9cb424288b30781d29d5dcb9a87a28527b3a3608	Pterula	China	Fungus: Soil DNA
+862.	UDB05712435|9d06034df296689ebee2a1db353bd8089486e1e0	Pterula	China	Fungus: Soil DNA
+863.	UDB05712438|9e2429c844388049ed7eecaa91af2491d148ece7	Pterula	China	Fungus: Soil DNA
+864.	UDB05712441|a4240ee42afcf606a8a357c9a46f4d29f0a3a9cc	Pterula	China	Fungus: Soil DNA
+865.	UDB05712444|a7d3752535f24ac0c0bbe30c472483a213f858e4	Pterula	China	Fungus: Soil DNA
+866.	UDB05712447|a8846021f742234ab46ab8c29ff797a142bc1568	Pterula	China	Fungus: Soil DNA
+867.	UDB05712449|bef8197da6757c37280c6b1b96e72215e1bc6bb1	Pterula	China	Fungus: Soil DNA
+868.	UDB05712452|c2def72b19f67216c04ba5a13a365e32a7ab43db	Pterula	China	Fungus: Soil DNA
+869.	UDB05712455|c5bdcc269f1a81bee5945fa76d6d278d36643611	Pterula	China	Fungus: Soil DNA
+870.	UDB05712458|daf8798bced84505fb85dba3a35f12536fefaca4	Pterula	China	Fungus: Soil DNA
+871.	UDB05712461|e49cd068dcdf3d6dffcb8c22418b7e126f7b9a59	Pterula	China	Fungus: Soil DNA
+872.	UDB05712464|e7fdf19ac61e97809810f8f776056a8e35f14486	Pterula	China	Fungus: Soil DNA
+873.	UDB05712467|e84482ee7092a70ef937b23cf463f7e251e98760	Pterula	China	Fungus: Soil DNA
+874.	UDB05712470|ea1a02af78146cc80be3fc3d60fc65467f4e4e5e	Pterula	China	Fungus: Soil DNA
+875.	UDB05712473|ecb7d81abf98063681ae38a08e1dea00ecc0c904	Pterula	China	Fungus: Soil DNA
+876.	UDB05712476|ed786c98441c449aca94e3fd3efac5d870fd470b	Pterula	China	Fungus: Soil DNA
+877.	UDB05712479|eea24610a2c5103a8cde1b58340d88ea943d604e	Pterula	China	Fungus: Soil DNA
+878.	UDB05712482|f3d19d9084f0a0b64fb38210f6071f9b06bc681e	Pterula	China	Fungus: Soil DNA
+879.	UDB05712485|f7683cafc665572f9f255c19d4a7ef48c12c1fe7	Pterula	China	Fungus: Soil DNA
+880.	UDB05712488|f93ee0a218b4a9cf5f3ae1f48bf058f8a64af23c	Pterula	China	Fungus: Soil DNA
+881.	UDB05712492|fad00f8d027e0e052f8a6b69c23d8378659d4b55	Pterula	China	Fungus: Soil DNA
+882.	UDB05712495|fbd41bc522f819bcf719615ecba239d7c2af5314	Pterula	China	Fungus: Soil DNA
+883.	UDB05712498|fde71f9dba47df7ef8804192193dc24089e25c69	Pterula	China	Fungus: Soil DNA
+884.	UDB05712502|fe479df3c21bc5e239c25042e5482f5bb345ea02	Pterula	China	Fungus: Soil DNA
+885.	UDB05712505|0304a8d09a6e251cda0481c2497f9e15c4511cc0	Pterula	Papua New Guinea	Fungus: Soil DNA
+886.	UDB05712508|c08aba3144a51ec4df7a3ae62871bb412d66dc52	Pterula	Papua New Guinea	Fungus: Soil DNA
+887.	UDB05712511|de2f61aa76af65f86be6c34ef62bd2aa9f91f99f	Pterula	Papua New Guinea	Fungus: Soil DNA
+888.	UDB05712514|cb0fc961d165e87bce76a1704d56fd2df38abc2f	Pterula	Ghana	Fungus: Soil DNA
+889.	UDB05712517|116cafdd7bea3aa6d8daefbea1dad68439587eec	Pterula	Ghana	Fungus: Soil DNA
+890.	UDB04406724|227e11d3762e6a533fa03888741153228761c69c	Phaeopterula	Colombia	Fungus: Soil DNA
+891.	UDB04406726|4efcb48ba1b2c3b8afbbb7995cd3865f6ac55ea3	Phaeopterula	Colombia	Fungus: Soil DNA
+892.	UDB04406728|6ae091f0f1d0e62aca94deae97099543e46e4203	Phaeopterula	Colombia	Fungus: Soil DNA
+893.	UDB04406730|4af36a954abf09abd6a8c7632f07005bfb9a2144	Phaeopterula	Panama	Fungus: Soil DNA
+894.	UDB04406732|4d9adf7dffb7811ab284e94b591b8284a8082594	Phaeopterula	Panama	Fungus: Soil DNA
+895.	UDB04406734|8cbf1813d03c940c02f62b1452f76c01d8127d32	Phaeopterula	Panama	Fungus: Soil DNA
+896.	UDB04406736|648eb23ad095dab3307bac1d1dfabd45e34ee935	Phaeopterula	Rwanda	Fungus: Soil DNA
+897.	UDB04406738|1675d41497702a78b57a361dff2810ca984a56ee	Phaeopterula	Rwanda	Fungus: Soil DNA
+898.	UDB04406740|63d4c3cf96516060825d270e68e5937dc13bc150	Phaeopterula	Rwanda	Fungus: Soil DNA
+899.	UDB04406743|f776d24516bb028960da2308f2d54772d774298e	Phaeopterula	Rwanda	Fungus: Soil DNA
+900.	UDB04406745|67408630e12341810c47737091da6266a4a5c148	Phaeopterula	India	Fungus: Soil DNA
+901.	UDB04406747|a4d11922f9576fb1ea2f3de0c929dcc14a85a5a1	Phaeopterula	India	Fungus: Soil DNA
+902.	UDB04406749|0c35812737ba559058ae1680c31a81c3a215215b	Phaeopterula	India	Fungus: Soil DNA
+903.	UDB04406751|a301ca19d3721bd3c175dad48a3e4d43ea6647cf	Phaeopterula	India	Fungus: Soil DNA
+904.	UDB05056062|ad344c757be7baa9944f5f17b4a200fda27bd939	Deflexula	Colombia	Fungus: Soil DNA
+905.	UDB05056064|e5f80229cf2b5125d572e3dcf10295af926642bb	Deflexula	Colombia	Fungus: Soil DNA
+906.	UDB05056066|87137abaa18c778a57fce7750e9e0ea3763cbcd5	Deflexula	Colombia	Fungus: Soil DNA
+907.	UDB05056068|ff4fdedc877056662db2b78d5e51633a5aa09978	Deflexula	Colombia	Fungus: Soil DNA
+908.	UDB05056069|18a196a2ea0f1af5cecff308e9df81116c2d60ea	Deflexula	Brazil	Fungus: Soil DNA
+909.	UDB05056071|732dd8b527045c7a5818ddefc27b81af956f1f3a	Deflexula	Brazil	Fungus: Soil DNA
+910.	UDB05056073|99f37dc6faec110457904f6f3db2b7894c96fc6e	Deflexula	Brazil	Fungus: Soil DNA
+911.	UDB05056075|a197e9af096a4d798888f7557ac02eac4d75ec74	Deflexula	Brazil	Fungus: Soil DNA
+912.	UDB05056076|34e5df492d488f4b516c26869ffb34d67d9efdb0	Deflexula	Brazil	Fungus: Soil DNA
+913.	UDB05056078|327009a4783f7dec17d65ee590b224ff192e0ac0	Deflexula	Brazil	Fungus: Soil DNA
+914.	UDB05056080|18ac7820fa8a545081e207f6dfd92894873f0191	Deflexula	Brazil	Fungus: Soil DNA
+915.	UDB05056082|2d59f452e5e125b8c0e492cb60c0ede19ab6f142	Deflexula	Brazil	Fungus: Soil DNA
+916.	UDB05056084|759d5b101f65259730131554c348c279ee9eb00c	Deflexula	Brazil	Fungus: Soil DNA
+917.	UDB05056086|92a53194ac01d21a81146a666513dfea6fa83ae7	Deflexula	Brazil	Fungus: Soil DNA
+918.	UDB05056087|9eefa4deb93f3b4bce315dca4f3c5eebba92d29e	Deflexula	Brazil	Fungus: Soil DNA
+919.	UDB05056089|a1d815937182aa37d60b6e567c2799c8607a87c7	Deflexula	Brazil	Fungus: Soil DNA
+920.	UDB05056091|a9e8f73d106d0756d380124c87a70fa0e6268e6e	Deflexula	Brazil	Fungus: Soil DNA
+921.	UDB05056093|bdb22e04328ab4a118b46421aa43cbe10438cf0c	Deflexula	Brazil	Fungus: Soil DNA
+922.	UDB05056095|f424a2348fd01970c4789ccc8250bbfa970a933f	Deflexula	Brazil	Fungus: Soil DNA
+923.	UDB05056097|0c638b4201588a67e383f4c7b6f12c3f233a5766	Deflexula	Mexico	Fungus: Soil DNA
+924.	UDB05056099|0310e9d1472cfe2604c293c543d860a5f18c062c	Deflexula	Mexico	Fungus: Soil DNA
+925.	UDB05056101|09691de6aebccfd3ffdb3d1e91c3dd2626d1b412	Deflexula	Mexico	Fungus: Soil DNA
+926.	UDB05056202|6c0a7596316aaf0eea8b050901f8c8425a9375a5	Deflexula	Mexico	Fungus: Soil DNA
+927.	UDB05056204|07c4b451d224c4f4025e187d742f5c03f3ad2741	Deflexula	Mexico	Fungus: Soil DNA
+928.	UDB05056206|0bd425d1be3471d4293eec7f62f38d2df5730cd5	Deflexula	Mexico	Fungus: Soil DNA
+929.	UDB05056208|2487b487078ae901085c9f7d85514559851dcd8c	Deflexula	Mexico	Fungus: Soil DNA
+930.	UDB05056210|a89f7dfd4054c5862074b550956614366541031b	Deflexula	Mexico	Fungus: Soil DNA
+931.	UDB05056212|df4b30bdc1643595d2deba4257353b8e6bc962bc	Deflexula	Mexico	Fungus: Soil DNA
+932.	UDB05056213|3f2e49fa7e37858d99fc2873b7895fcdf1d143fa	Deflexula	Tanzania, United Republic of	Fungus: Soil DNA
+933.	UDB05056215|33501a91b4ece57256e44d6184806d9a600d115d	Deflexula	Tanzania, United Republic of	Fungus: Soil DNA
+934.	UDB05056217|fe3bd6f383411ca411d18a290e21d49981b0d29b	Deflexula	Tanzania, United Republic of	Fungus: Soil DNA
+935.	UDB04203498|0ac2648d03e98062379ab8ff4517e790b34b2afa	Coronicium	Colombia	Fungus: Soil DNA
+936.	UDB04203500|1072783daeb4ee90f12007aa586ece403b5f770e	Coronicium	Colombia	Fungus: Soil DNA
+937.	UDB04203502|6aa5fcdbb1bb6a00f8749bae492af2d304a8f289	Coronicium	Colombia	Fungus: Soil DNA
+938.	UDB04203504|1fdcc494915602b716b183d63af2335809b13d1f	Coronicium	Colombia	Fungus: Soil DNA
+939.	UDB04203506|478550fb0e1adb24ed7567bf9ff9b0fab1b56156	Coronicium	Colombia	Fungus: Soil DNA
+940.	UDB04203509|a593b04c1d2adce3647da7309af47b729ee54fd4	Coronicium	Colombia	Fungus: Soil DNA
+941.	UDB04203511|54431e2cf1f5b567bf1c4b3fed6e7758106c2b94	Coronicium	Colombia	Fungus: Soil DNA
+942.	UDB04203512|1072783daeb4ee90f12007aa586ece403b5f770e	Coronicium	Colombia	Fungus: Soil DNA
+943.	UDB04203515|0a431e27a0f61a6dd8129117d5e27552ad44fcd8	Coronicium	Colombia	Fungus: Soil DNA
+944.	UDB04203517|49f3ff61aa9253429209f6a900fdd04c135eb56b	Coronicium	Colombia	Fungus: Soil DNA
+945.	UDB04203519|6d5802d6bbaf4a50bab510d2794cdb3c53082e26	Coronicium	Colombia	Fungus: Soil DNA
+946.	UDB04203521|91a82694306fea4eb70754edce306a899bd74adf	Coronicium	Colombia	Fungus: Soil DNA
+947.	UDB04203523|a593b04c1d2adce3647da7309af47b729ee54fd4	Coronicium	Colombia	Fungus: Soil DNA
+948.	UDB04203524|dbe24acd683b7034a5c77b68b275c8d04c4a0060	Coronicium	Colombia	Fungus: Soil DNA
+949.	UDB04203526|e1c6ca973cfc69b4e678feaa1bc30d2e4596fa33	Coronicium	Colombia	Fungus: Soil DNA
+950.	UDB04203528|e518f4e4ceb819df8740274f7a799e0f6f0eb3b4	Coronicium	Colombia	Fungus: Soil DNA
+951.	UDB04203530|e7ef33496f8afc5e17a361a000577878cc1f5ed0	Coronicium	Colombia	Fungus: Soil DNA
+952.	UDB04203533|47fea07a09f8bd427f7ef0f528252e69ce5671d9	Coronicium	Japan	Fungus: Soil DNA
+953.	UDB04203535|338406b12557f5a144be39c94b3e3be30afeacde	Coronicium	Japan	Fungus: Soil DNA
+954.	UDB04203537|a27dfc257b75e60d99d824756e4ece7afe595cfb	Coronicium	Japan	Fungus: Soil DNA
+955.	UDB04203539|ef1dd1031e379d8bfe97bfddcea24a0265b79ed5	Coronicium	Japan	Fungus: Soil DNA
+956.	UDB04203541|f7632725f4cd6d9969420c9e6c0c9459dfe29d25	Coronicium	Japan	Fungus: Soil DNA
+957.	UDB04203543|0e9ad972a5f61c81c9808a25b4df42d22e52c26c	Coronicium	Italy	Fungus: Soil DNA
+958.	UDB04203545|3677e6dd7e47f77f7adafaced4859bee3d483b07	Coronicium	Italy	Fungus: Soil DNA
+959.	UDB04203547|3a2309cbbeace704fabb25f08393ac1030518665	Coronicium	Italy	Fungus: Soil DNA
+960.	UDB04203549|3a824b058027c39df4dfb0744e2c53ce15e1966e	Coronicium	Italy	Fungus: Soil DNA
+961.	UDB04203550|b1929de43579bac38165384bf0d20bd29c444c05	Coronicium	Italy	Fungus: Soil DNA
+962.	UDB04203552|bb4f057da7672245c5388fe101461e245fbbc7fc	Coronicium	Italy	Fungus: Soil DNA
+963.	UDB04203555|71f6b904ef528af17067edee8ba0a2d1a1d4e626	Coronicium	India	Fungus: Soil DNA
+964.	UDB04203558|7ba7af5efc653fe2f0cb74d4907b7f3f59962f1b	Coronicium	India	Fungus: Soil DNA
+965.	UDB04203658|10704e6c969657018d444b84026ef9487301580c	Coronicium	India	Fungus: Soil DNA
+966.	UDB04203661|375092ded58bc7e86f144ceac10c90b7a7c425f9	Coronicium	India	Fungus: Soil DNA
+967.	UDB04203664|3d700139d76edd3a85c9e9d33c85369def559427	Coronicium	India	Fungus: Soil DNA
+968.	UDB04203667|66e356623173ee1c7916770dc8302af5f1583666	Coronicium	India	Fungus: Soil DNA
+969.	UDB04203672|8556e81dbac3d975ed196525aba19700d80c41ca	Coronicium	India	Fungus: Soil DNA
+970.	UDB04203675|8c799b59c0f29dc2b7d71c680ab8eab55cd57b40	Coronicium	India	Fungus: Soil DNA
+971.	UDB04203678|96f6040d738c1eb52e818bcc27c1259ca781c870	Coronicium	India	Fungus: Soil DNA
+972.	UDB04203680|9a55cd237d9f8d8c434f8659f0f8cd050a1f8269	Coronicium	India	Fungus: Soil DNA
+973.	UDB04203683|a1612802f4144dc74906e509ccc5c83bf5cd5e11	Coronicium	India	Fungus: Soil DNA
+974.	UDB04203686|a729da855fab92031cd45a30bbb37ac0b8384883	Coronicium	India	Fungus: Soil DNA
+975.	UDB04203689|af9ab56db96ddab5bb557facd20083a926b865c0	Coronicium	India	Fungus: Soil DNA
+976.	UDB04203692|b176e261448ca25ed5699b955f6de18878c50ee0	Coronicium	India	Fungus: Soil DNA
+977.	UDB04203695|98016d206816848f9e8dab0fe1a15a45bb0b5ac8	Coronicium	Dominica	Fungus: Soil DNA
+978.	UDB04203697|9c3a33d2eac7a86445d66eb2299e5d493bfbe42d	Coronicium	Dominica	Fungus: Soil DNA
+979.	UDB04203699|1cf6a7fc9eb1d87f037ca4b38d4972b600eb75c1	Coronicium	Dominica	Fungus: Soil DNA
+980.	UDB04203701|2ebafa363fde759a83bb471cb068d0dfdd5f1992	Coronicium	Dominica	Fungus: Soil DNA
+981.	UDB04203703|39ca913737a245d41a414477e25878ae3eb1d5cf	Coronicium	Dominica	Fungus: Soil DNA
+982.	UDB04203705|46ccc86a46f6be196f611397446474fef22eb1a3	Coronicium	Dominica	Fungus: Soil DNA
+983.	UDB04203707|54eaf0bb7adbaa24263a0b474ed87e0c39d23957	Coronicium	Dominica	Fungus: Soil DNA
+984.	UDB04203709|834fe636f518ecaa084798bf677a0a5556c8d1b1	Coronicium	Dominica	Fungus: Soil DNA
+985.	UDB04203711|e11f847d25e5ed0eebb035359a014d67b334d812	Coronicium	Dominica	Fungus: Soil DNA
+986.	UDB04203713|f4c4e04ca57c6ce35c98ea36d8dfc9cf25746299	Coronicium	Dominica	Fungus: Soil DNA
+987.	UDB04203715|cfb1d9ac44e3af759c9464cfa8031f827dc1c080	Coronicium	Estonia	Fungus: Soil DNA
+988.	UDB04203717|87daaf13acb861627aaf8a29adb82c75c1e63105	Coronicium	Estonia	Fungus: Soil DNA
+989.	UDB04203719|962e360fbb4d311a1da708389609bc10932351d7	Coronicium	Estonia	Fungus: Soil DNA
+990.	UDB04203721|da95cd8918ab0cb37485ecfcbacc560653b6a7bd	Coronicium	Estonia	Fungus: Soil DNA
+991.	UDB04203723|b4918defa124e6590b66857324ea336283e26c8d	Coronicium	Cameroon	Fungus: Soil DNA
+992.	UDB04203725|7035258d19367a3b857fbf4f079ca5290d9cdc7b	Coronicium	Cameroon	Fungus: Soil DNA
+993.	UDB04203727|0f0ee9cd2d5bb84e74d743421f6dd8d92260916a	Coronicium	Cameroon	Fungus: Soil DNA
+994.	UDB04203728|2c4ee00ec9152c885d865299ae5499222581fc70	Coronicium	Cameroon	Fungus: Soil DNA
+995.	UDB04203730|2f554de5243845634481d3920e99dd97589ef887	Coronicium	Cameroon	Fungus: Soil DNA
+996.	UDB04203732|32d6ea6b611d307387dcf6b04d8afde9e7a62cc4	Coronicium	Cameroon	Fungus: Soil DNA
+997.	UDB04203734|3684b90c26954034b9e677aa9df9e81bbb6340da	Coronicium	Cameroon	Fungus: Soil DNA
+998.	UDB04203736|3c488945be765cfa457680c57369758f8438def3	Coronicium	Cameroon	Fungus: Soil DNA
+999.	UDB04203738|5662135a985a095cc071a3edf6f364449155404d	Coronicium	Cameroon	Fungus: Soil DNA
+1000.	UDB04203740|609a43bbee98a39f5d8d79cdf1b5c266006e3e41	Coronicium	Cameroon	Fungus: Soil DNA
+1001.	UDB04203742|77150076acd37ad9070b69fa659abf36c71ee1ab	Coronicium	Cameroon	Fungus: Soil DNA
+1002.	UDB04203744|7ce466824e42159497b795ee0f1f8bbeece4514b	Coronicium	Cameroon	Fungus: Soil DNA
+1003.	UDB04203746|80880dc2b38921b8fe9983b431006871622328c4	Coronicium	Cameroon	Fungus: Soil DNA
+1004.	UDB04203748|90f82f8e3cad8325e37d7c65a8531572a81a0508	Coronicium	Cameroon	Fungus: Soil DNA
+1005.	UDB04203750|9e2026d790905cd70d3537ed60096296a6d2bc59	Coronicium	Cameroon	Fungus: Soil DNA
+1006.	UDB04203752|9f9fd709c4d40b4333acb9c62cc0f66ca668372a	Coronicium	Cameroon	Fungus: Soil DNA
+1007.	UDB04203753|a818e803b2238cef8a0c000a7c85944f3653941a	Coronicium	Cameroon	Fungus: Soil DNA
+1008.	UDB04203755|aa4675124aecbc1ec6b894a738ace41f89b8c84c	Coronicium	Cameroon	Fungus: Soil DNA
+1009.	UDB04203757|bc00b20cb885f905f2e1ffa492e3ecb6114fd756	Coronicium	Cameroon	Fungus: Soil DNA
+1010.	UDB04203759|c38ce252a629d3bf0c056d493c9fe2ff4cd52b97	Coronicium	Cameroon	Fungus: Soil DNA
+1011.	UDB04203761|08af18edeb4d46dc800869873fa6ff23f1d1467f	Coronicium	China	Fungus: Soil DNA
+1012.	UDB04203763|7bccfba70f1e48c3bb02d5713033eb62e4654ad9	Coronicium	China	Fungus: Soil DNA
+1013.	UDB04203765|111826befe0afe2f49464fc5faf89183d5e257e6	Coronicium	China	Fungus: Soil DNA
+1014.	UDB04203767|5f7408962d91b9ef532e0c659c7b31281070eaa8	Coronicium	China	Fungus: Soil DNA
+1015.	UDB04203769|bdc08f6e9fb7db1cc4c0e8963d2e0ef494aa718e	Coronicium	China	Fungus: Soil DNA
+1016.	UDB04203771|132171b9172290d3cf43b71383a3aac6c5df168d	Coronicium	Pakistan	Fungus: Soil DNA
+1017.	UDB04203772|a01dd09a9d8f2992394b13cc1de0a525a59cc474	Coronicium	Pakistan	Fungus: Soil DNA
+1018.	UDB04203773|d9d3e9caed0d04cd879f1073cf007d385dae9121	Coronicium	Pakistan	Fungus: Soil DNA
+1019.	UDB04203774|e4d990f41d1d01aaeee94d31f23b33405500e9e7	Coronicium	Pakistan	Fungus: Soil DNA
+1020.	UDB04203775|a8fb996518de8e367e9090dcfeb3feb7f775223e	Coronicium	Italy	Fungus: Soil DNA
+1021.	UDB04203777|3a2309cbbeace704fabb25f08393ac1030518665	Coronicium	Italy	Fungus: Soil DNA
+1022.	UDB04203779|3fd619a5ca83f87d4f6bc1b849de30cf0d2f96e8	Coronicium	Italy	Fungus: Soil DNA
+1023.	UDB04203781|8add7201a8df1ebbe1da75b884a3efa5a3731b52	Coronicium	Italy	Fungus: Soil DNA
+1024.	UDB04203783|d7e394d1a65054e7ddb5b4eaa86ff37dd06fcb57	Coronicium	Italy	Fungus: Soil DNA
+1025.	UDB04203785|eb7c19b99c64ee5bfb863415e3dd4725cd593e4e	Coronicium	Italy	Fungus: Soil DNA
+1026.	UDB04203787|f0622d5282a4703737746bfdf5988d427c126152	Coronicium	Italy	Fungus: Soil DNA
+1027.	UDB0799689|HNL502176	Pterulicium	Lao People's Democratic Republic	Fungus: Fruitbody
+1028.	UDB0799824|HNL502338	Pterulicium	Lao People's Democratic Republic	Fungus: Fruitbody
+1029.	UDB025119|116305	Pterula subulata	Estonia	
